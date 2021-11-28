@@ -1,1 +1,2171 @@
-for e,l in pairs({(function(l,...)_4e6ec04c030b0a88="This file was obfuscated using PSU Obfuscator 4.5.A | https://www.psu.dev/ & discord.gg/psu";local q=_4e6ec04c030b0a88 local m=l[(171587438)];local i=l['s1fNh'];local Q=l[(681415904)];local G=l[((#{331;857;(function(...)return;end)()}+873615335))];local W=l[((797013477-#("while true do end")))];local u=l[(946883639)];local b=l[(959062375)];local o=l[(5516984)];local z=l[((547955648-#("The weekend baby fuck it is sunday baby fuck the weekend baby fuck its the weekend baby weekend fuck")))];local H=l[(93512512)];local L=l[((950044957-#("I am staying winning")))];local w=l[(302519118)];local I=l[(604074377)];local C=l[(750843101)];local v=l[((437487068-#("Kanye, white COVID balls, Danny Balls, I like eatin my mom, COVID-19 Balls, Fortnite Balls, EDP is my friend, Trump big balls, COVID Balls cannot- every little girl is a... CANDICE!, Levi, Club Penguin, sussy wet, Joe Biden, yeah-, Cam-cam, I like eatin my mom out, JX Cheeseburger balls")))];local E=l.vBRCcgq0I;local N=l["qPI6JtwPCc"];local P=l[(914691071)];local U=l[((#{477;}+104864282))];local f=l[(409836763)];local r=l[((#{788;428;}+838242811))];local B=l.v0CJ0bn;local h=l["eCHRvQCq9"];local y=l[(956338232)];local t=l['gbmwBvS0'];local n=l[((591360998-#("perth is sus")))];local R=l[(770414186)];local S=l[(481963605)];local x=l[(434060834)];local T=l[((#{18;741;698;(function(...)return 939;end)()}+217326015))];local k=l[((902171254-#("bobux_generator.exe [100 GB]")))];local V=l[((983699596-#("Banned for: pornographic gif of roblox character having sex with roblox dog")))];local Y=l[(845501396)];local O=((getfenv)or(function(...)return(_ENV);end));local a,d,e=({}),(""),(O(n));local a=((e[""..l['lmpf9cqych'].."\105\116\51\50"])or(e["\98\105\116"])or({}));local c=(((a)and(a[""..l.lmpf9cqych..l["nEXf0b"]..l[y]..l[r]]))or(function(l,a)local e,n=n,t;while((l>t)and(a>t))do local t,c=l%o,a%o;if t~=c then n=n+e;end;l,a,e=(l-t)/o,(a-c)/o,e*o;end;if l<a then l=a;end;while l>t do local a=l%o;if a>t then n=n+e;end;l,e=(l-a)/o,e*o;end;return(n);end));local s=(o^U);local F=(s-n);local D,g,p;local h=(d[""..l[h].."\115\117"..l.lmpf9cqych]);local s=(d[""..l["lmpf9cqych"].."\121\116"..l[i]]);local j=(d["\99"..l[w].."\97"..l[r]]);local h=(d[""..l[f]..l[B].."\98"]);local d=(e["\114"..l['k0O4g1cj']..l[I]..l[f].."\101\116"]);local d=((e["\117\110"..l[b].."\97\99"..l[k]])or(e[""..l.RMhMoBRl.."\97"..l["lmpf9cqych"].."\108"..l[i]][""..l[B].."\110\112"..l["k0O4g1cj"]..l[E]..l[k]]));local B=(e[""..l[f].."\101"..l.RMhMoBRl.."\109"..l[i].."\116"..l["k0O4g1cj"].."\116\97"..l.lmpf9cqych.."\108\101"]);local k=(e[""..l[m].."\97\116\104"]["\102\108\111\111\114"]);local M=(e["\112\99"..l['k0O4g1cj'].."\108\108"]);local I=(e["\115\101"..l[C]..l[i]..l[E]..l.RMhMoBRl]);local B=(e[""..l["RMhMoBRl"]..l[R]..l[b].."\101"]);local R=(e["\115\116"..l[r].."\105"..l[u].."\103"][""..l[m].."\97\116"..l[E]..l[w]]);local B=(e[""..l['RMhMoBRl']..l[y]..l[u].."\117"..l[m]..l['lmpf9cqych'].."\101\114"]);local _=(e[""..l[b].."\97"..l[x].."\114\115"]);local X=function(n,e,l)return l+e or n*l end;local J=((e["\109\97\116\104"]["\108"..l['laEnodpo1']..l[i]..l.nEXf0b..l[b]])or(function(e,l,...)return((e*o)^l);end));g=((a["\114"..l[f]..l[w]..l[x].."\102\116"])or(function(e,l,...)if(l<t)then return(D(e,-(l)));end;return(k(e%o^U/o^l));end));local b=(a["\98"..l[y]..l[r]])or(function(e,l,...)return(F-p(F-e,F-l));end);D=((a[""..l[C]..l[f].."\104"..l[x]..l[T].."\116"])or(function(e,l,...)if(l<t)then return(g(e,-(l)));end;return((e*o^l)%o^U);end));p=(a["\98\97"..l[u]..l["laEnodpo1"]])or(function(e,l,...)return(((e+l)-c(e,l))/o);end);local o=(a["\98"..l[u].."\111\116"])or(function(l,...)return(F-l);end);if((not(e["\98"..l[x]..l['RMhMoBRl']..l.U0lnVi30o9.."\50"]))and(not(e[""..l.lmpf9cqych..l[x]..l["RMhMoBRl"]])))then a[""..l['lmpf9cqych'].."\97"..l[u]..l['laEnodpo1']]=p;a[""..l[C]..l[f].."\104\105\102"..l.RMhMoBRl]=D;a["\98\110"..l[y].."\116"]=o;a[""..l['lmpf9cqych'].."\120\111"..l[r]]=c;a[""..l["lmpf9cqych"].."\111"..l[r]]=b;a[""..l[r]..l[f].."\104\105\102"..l.RMhMoBRl]=g;end;local f=(e["\116"..l['k0O4g1cj']..l.lmpf9cqych.."\108"..l[i]]["\99\111\110"..l[E].."\97"..l.RMhMoBRl]);local F=(((e["\116"..l['k0O4g1cj']..l["lmpf9cqych"]..l[C]..l[i]][""..l[E]..l[r].."\101"..l['k0O4g1cj']..l.RMhMoBRl..l[i]]))or((function(l,...)return({d({},t,l);});end)));local o=(e["\116\97\98\108\101"][""..l[r].."\101"..l[m].."\111\118\101"]);local o=(e["\116"..l.k0O4g1cj..l["lmpf9cqych"].."\108"..l[i]]["\105"..l[u].."\115"..l[i].."\114\116"]);local i="\58\40"..l["ZwnSOuX5"]..l['laEnodpo1']..l['RUdBu0'].."\41"..l['aHtXSFPC87'];e[""..l['lmpf9cqych']..l[x].."\116\51\50"]=a;local e=((-P+(function()local a,o=t,n;(function(e,l)l(e(l,l),l(e,e))end)(function(l,e)if a>Y then return l end a=a+n o=(o*v)%V if(o%G)>N then return e(l(l,e)and e(l,l),l(e,l and e))else return l end return e end,function(l,e)if a>L then return l end a=a+n o=(o+Q)%H if(o%S)<z then o=(o+W)%((#{929;886;66;734;(function(...)return 824,875,586,35,...;end)(186,803)}+37006))return e else return l(l(l,e and l),l(l,e)and e(e,e))end return l(l(l,e),l(e,l and l)and e(e,l))end)return o;end)()));local o,r=M(function(e)local l,o=e()local a,e=l(e(B),o)local o,l=l(X,t,nil,o)return B(R(l,i))-B(R(e,i))+n end,function(l)if l then return function(l)return l()end else return M,''end end)   local o=(#q+((251-#("hell isnt real u get reincarnated as a marketable plushy that will get filled with cum"))));local i,E=({}),({});for l=t,o-n do local e=j(l);i[l]=e;E[l]=e;E[e]=l;end;local x,a=(function(a)local t,c,l=s(a,r,((#{(function(...)return 636,295,317,745;end)()}-1)));if((t+c+l)~=(248))then e=e+((184-#("skorp")));o=o+((#{237;(function(...)return 777;end)()}+237));end;a=h(a,(5));local e,c,t=(""),(""),({});local l=n;local function r()local e=B(h(a,l,l),(36));l+=n;local n=B(h(a,l,l+e-n),((59-#("aeugh -pufferfish, 2019"))));l+=e;return(n);end;e=E[r()];t[n]=e;while(l<#a)do local l=r();if i[l]then c=i[l];else c=e..h(e,n,n);end;i[o]=e..h(c,n,n);t[#t+n],e,o=c,c,o+n;end;return(f(t));end)("PSU|21s11111027727827910141427727510121227827F1P1o2761027f1D1C27n27f21021027827h26H26H27725F25c13277237161n23d1t1627722821O1D1O1S1N26U23U1E27722a21J1b1a111n1x21I1H101t17191k2391028A102371m161H171R26i2441G27722D2121m1n21N2131U151121321I1N141V1a1624M25J27D1022v161C1826823p27926823725v26124827N21323t24R152772251y1q161m22r1828K1028m18121R1H1z21F1R1D1N2891126V24C2Ae1022b21n111r162362am27723629821d2182951M171n21m21F1P1k23w26j2922321r1O1f2Bj21422C2An22V121h1n27r101B2862aZ1t29029221V21813131T21t214191i27722B21K1A1l2971d1E1J1m21G28D1l1I191t1V22l21N1b27721z1Y1h21j21711151829G1B23n26c1927722C1z2ck1b213213181923m26d182772392Aj1N1M151L1l2BP2922c01H2861222p11172DJ21D1T1c21I2191n23i1b1D27721V21I2Eb1N1B1q21j1y2A01N1j23w26H29W22d1H2191421422a1N2BC1g1q1P2Ck1m1H1t1d22M1l102aw2D427D1227c1C26z29v27722U1f1R1n25n24M2Du29x2c11n2FE1S1024D26M27926022825k26124f2922241Z101V1l1126823w2fz2D61a12182E61b1M22w2eb102361N1k141g2BI23329k27722e21j1d1p1G2702gD2bc1j1f1A1B1221421u2GW22I21H121f1b1C1M21V21L2dI1028c28e28g21H21e1S24x2652B321w1x16121d25e24P2gW2hY28f1n1124w25U28U102352h11g1G21M21C1121D2171h19191L1v28921A22n2b322T2F71T1t26u23Z2D41022R1H1J1I1r1R29G141j1n24x25n2fZ22C21D2IX2IZ28926O23Y1a28l2131R21p29o29Q29S26923r2831022121m21e2602422jb22421L1K21e28T28V28X1K21522m29w22621b2A01W22c2Il2941h1S112EL111b1U122D01L1n161D24426n27i1022n1O21422s2jB2342l42as28621721k1I1S24q25K2JB21U21C29p1A1X21116171q1721V21R1F27723b151R1t1H21m21O1f152fB2cR2CT23J2h5102DK2Dm24t25Q2El1021x2181j1L2132111y21L1e22g2J71724j2Ja2842fd28614151B11121L1z2BY27722i1J21328p1T21m2131d191n1v162j823N2Gw2Jq2F71j18171122v2fz22121328W1L1f1D1624H2682401Q23y22821125H24V1F21H2b32Jd1b191421d2272JX102Ft2fv1M1q1e192OA22K21I2922i7171g1R1Q24W25l2OV2E51Q1b2jk2dy172532MQ27721u217171A15132p11W21F1j2eR2492dh27722p1k2B71S1R2EB1R2331M2MR22R27H2Ek21M2eh1L1S1d12161W2202MR2391r2L31t2LL1n2lN2lp23o2DT2772242111e1f1S28W1922p2pS27722x2M12622Fy2DV2Dx2L82iY24h25g27A21022S21b22X29222821d2jL2eR21A21u1O2cl21M141O1p1D1L2az21O21f151D1S1621r1Z1c2ia1921821921q22k2922202f32hZ24R25G2GW2O42oq122Nc1a2Ro2D52122a02sg22c21J2gw22P1F1q1t18181421j22L2gw22B21M1B1E1528X26B2K628L21f1o1Z23421627722W2G4142222fi22g27722H22K2Ff1E131n22e2252Sd21u2262fc1H22j1G22E1d22h191116142Ea2O2141a25923L2B322b21O1q1r1A22r2GW27726823Z21B24825y2An2LU1R181f21p29F181O21121f2ff21c2hL2n729p29r1622d2P52Em1521g1J2A021R2TC2cl2Uu2uW2192Sh22a2FZ21u2dl1m21H2rR1626l2442Mr2262Iv131O1t1p2122mu1p1E28h2NW27722321A1S21M2182nC22D21g29w2381T1A1824O25P2aN21y21b2pq1Y21B1r2Ea2D92Db1825M2rd1021U2191B1t21q21q2xL2381V2wY2m01g1l23427A26O25r2562a327821S26726723421k2Fz22021p1o1C1F2uj1d25m2511R2772i713171K27L2D92Iy2132161A171H1821A2172iy21D2Pw2eR1724e2qY2hx21R1s2t62Az26i2Jw2772302pt151n17162Q61921p2SJ2Vx2M22e621R2282ov2d61h21N2192v9286171S22T2Zt2d729n2vL29S1W2242HW21t1y2911M102R41b2212ON2772222111D21721927123u1j2772e52172172z829p1521n21I1d2l12Z91d21o21T29W22b21I141L24s26429W23b1m1j1s24t25m2hw22x1Q21821O2qD311222Q132b322u1A2831t22X1c2f71021Y1Z2752ew1d31101i2Zw1N1N21021H2911r1B2ih1h22D2T22Em2181t1N1y2I22361B29C2JC311r21m2Eo1O1N1d2s72e01H23S2z522u1J2AW2aY161121g22E1c2Dj2dl2C52K13106162hC29222R27r2qJ1l21D21v29222E21L1327L181W21S2b32RQ2t51726v2gm310t2C1101H141C1u26I2b22772381l2pt192692N6102GF2sD311528D2IG24x2pD2D52I2312y313L25N2Id31492JE2St1O2182Vw2ow1K1T1221r1L1523L311l27722f31111721K1z2fi1123T2Z52381R1s2ZI2zK22P311u27721t21e102FD21A2ko2m71M181T24S2V527722R2OQ1F19121G152862h92H224R25W313g102aG1B1h1P1921I21c1h1R1p1426P2y127726o23226626M24n2hw22b316X2f71b2152I222H310j102Lj2Q61q2532fr2B421M1j1V2ej312v2x6151O2c22ZK1y2171f314L315P26a2M62mM2jR2iy2J01631052K31623i315U2eM2yY316f121125m24K2OV316d2ob2AQ2yd161o268314h31232vs2A0313n316c1h2oq141r253266313o2C2311B1h26923X310A1y2AY1v1N2cp2GK314o2942aJ2BJ2MD2IA1026U26p25Y21W22u22h21G23425922822Z2Wy2nQ1l22R2R83123191p26W2Xh2w42GQ2as2gq24O2822772341s1u26424T2k72321b1I24v25V2jB2jq2EE318c2vM2WW29W22f21e19182582i529d2F21422N2151G2Ke2SC2ia21r316X316Z1421A315822b2131H2fi2GJ311t2b32341J319q26t24e2sQ2c12861B1O26025B2IL28M2qH152Gp319j21j2jz1t1J2i923I2xR2dj21N102ce2LH2772O629K112zw2Zy1N21d2f62F82Fa2uB2FF2FH2FJ2hp11182I91D2m624v2402Hw2202131V102L621C2pP2DG2Hw2Xj2xl21R2152Mb1622r2G22AF2ah2aj21321J2762XB22N23621B31C91823Q26B2an2ZU21c1x1m1G1628o1531451S313P31Co2132s0141E21i2K22jL2142292Jb22621n2BU2Bj2pV318j313p2oV2GF1821G2k22vm1w2252O52131q1y2h82ha24M2iK2fS2fu2L72Mf2X12Yd1h2e61n2MA1T31cN2b42132Zj28X21D31Fd1g26923m292237315v2Tj2Ur284131h1M1p25C24I316p21z2SY1831EO28u2r51k24r25S2Fz2KW2Kk28Y24w315H1023B1I2Yu1s2a01e1H236315y2Mm2122o01522K312m1021V2yY2Fi1H1123J2892772202152hG2Dq25925T2HW31hB191J31Bv2g22Jm2X427731Eu31eW28r21i2H031Bd2Ob22d21D27n1a22721y2K72SR2712WB310k2LZ2M1171w31F529S22r2eA2r9172o1313G1228I310S2GX2bE2bg319n2bK21L31392ax2az25c317927722s2uJ2Sd2WH151927023T312v2y92Yb318s1d21I21p2Fj2102w82532sP2d521H2JL2J01D25625I2b32212101c2I91A31022772X62Fv31Eo29P2JL21j314231J62Ea1n1I23T2G727a1021C1W312V31ad181C2s32uV1a2132Cd2CF21T22x313f2zO2uw21J31iK31DQ1D2jb22e21R2B8111k1D21l29f1N24Q319731Io1T29g2ZJ23I2il22b21E1O21G214310e1I2I921j21J31I22bi26L31DA2m72wg27L31G82Qk318F2GW22A21f16131B28323B2C32TS2Eb141D31j1313B1122w31h32b52nQ31cL2Gv27721X3181318323T2EZ27722Q2eL1321531f831K531E21921431LS1r21e22F2MR2311c1A1E21M2142m91T314k2P125n2aD2Cl21N2q721w2WX31Mu2172bt22L2m53153162cT1q2gr2e131nn31jC245316P318P16318R1731321V1j23S26e2Jb2AP2ar1h2Pv2PX2uv23g31Iu2kW310v310X2nA311031122eR2J71d2712wo10311n21821P2Yu1L2292y7316c2oq1l1731G81c25F31C531532ky2L02l22L42GI2L71D23j2Ek28B21r2M02M231ij313L21r316531ha31Hc21D31iA27722T1M1323a31NG2772312sT31D71V1U2Jg1t21522h2K72371A1N25c31522GX2gZ142Q51N24m31jQ1022e31mA31Fp2Cg1221d27921s25R25R21B31mT31qz31r12Ma21s22W31q12IF22q1h2Ov31jz31K1122152192Yl1926g31g12em2eu182Ew210311731qc31kQ1S219222318631C71S31C92ne31HE2X92Xb1724S25q310e2jC31992cP2Wt2bH319o31j0313A2Az25231HO2h62uL31L326923s316p2371i2EW1c172O82oa1626923K29W2RQ2qH23p2BQ2q12T92OA1R26231NQ3187314D1U24w31JX31531J1424g31GT22A21N2R21s21F21h316Z21H31kC2OW31Oe1V1M22g21o27627f27H27W2lC101w1w101I22122j27729g2752Sg1y1w2Lc1I22722L31UL314k1I1H2k71m1I141i26525R31uL1J151I24823u31ul31EC1i21821q31Ul2971i23b22T31uL1U181i1F1t31Ul1v2CJ21O21A31uL1s1A1i1P2jB1m1T31ar23i23031uL1q1c1i21I27v31622aW1I23E22W31UL1O1E1i26425Q31ul1P1F1i1Y21C31Ul161G1i24M25031UL2yU1i24523r31ul31V21I25424q31ul152jf21921R31uL121K1I26Q26831Ul132CX21621K31uL31621i25G25Y31ul28q31vP31Vr31621E1o1I25u25C31Ul1F2fb24r25531Ul1c1q1I24y24g31Ul1d1r1I21w22E31uL1a1S1i23O24631uL2Xl1I25124N31ul1831qh24223K31UL191v1I23922v31UL21I1w31t02b31M21j1x1I23422Q31Ul21g1y1i26s26e31uL21H2dL1131IU1m21e2101I23P24731UL21F2111i22s23A31Ul21c2121I24o25631Ul21d2131i25h25Z31uL21Q2141I23323h31uL31Dn1I23q24431uL21O2161i316h31ul21P2171i23x24F31uL2WT1I23J23131Ul2ZW1i25724P31UL21K21a1i25624o31UL21L21B1I1g2lC1M21221c1i25024M31uL21321d1i2cK31ul21021E1I21U22831Ul2VF312a21531ul1Y21G1121h21g132ND2751I22e21w31Uv131i21L21731Ul31V11i31nj31v631v823R24531Vc161i22X23F31vh171i24623O31vM31vO21X22f31VS2CJ213312F316231VY1i22A21S31UL31w41I25z25H31W831WA1v2MR1m31Wf21721L31wj31wL25V25d31wp31Wr22322h31wv31WX26Y26G31X11H1I22z23D31x6322022p23731xb2jF25o26631xg31xi1D31DE316231xN1I23f22x31xr31v022622K31xW31Kf25824u31UL31Y11i23c22y31Y62Fb22u23831yB31YD24d23Z31YH31YJ21D2GG316231yO1i1j27n1m31YU22Y23c31yY31QH26025m31Z331Z521Z22D31z931Zb21R21931Ul31ZF1i21p21B31Zk31zM22C21y31zq2dl25a24s31uL31zW1I26725P320132031r2HW1M32081I26125n320d320F26225K320J320l1x21F320p2151i25c25u320U320w24G24Y320z321126R26932152181i25S25E321A2191I22f21x321F321H25F25t321l321n21Q21831uL321s31XT31XV3162321y1I21e31ug316232231i22I220322821F1I23a22s322C322E322G322i27H121I23V249322o1I23522R322t31V226T26F322x1I23k24232311I24k25232361I22V290316231Vn1i23D22z323F1I21a21O31Vx31VZ1a2rw3162323p23z24d323t1i25D25V31ul31wf21f1X32411I21y22C32451i1e2G4316231ww1i23n241324d1I24W24i324I1I21J211324m1I21K2tr316231xh1i1m29W31q82cx25224K324z1I25524R32531i25R265325731y2172Fi316231Y71I24F23X325G1i26P26B325K1i23S24a31Yn31yP24423q31yT1t31lU1k325x1i23123j32611i25T25f32651i21421M326931zg23U248326e1i25P267326i1I24N251326M31ZX26O26a326R1I23g2323207320924v25932701i26v26d32741i1z31r53162320q21t22B327D1I23822U327H1i21C310c3162321621021I327q1i23M240327v1I22h223327z1i31g83283321t1S2an1m328821V2293222322425m260328H1I25K262328m322F322H2nD2cE31V131sh1M31UW23l243328Z1i24Z24h329325924v329725B24t329b24L253323B1i23y24C329K1o2ov1m323K22r235323O31aR31o4329w24x24J32A01D1i25324L32A4314e32a824S25A32491i23w24e32aH24B23t32AL25X25j32ap24123n324q1i21h21331Xm2cx31UH32B2321v32b622B21T32BA1I1U316p1m32BF25w25i32BJ2222tY316231yi1i24C23Y32bR1I1t3186325t32bw24023m32bZ26325L32c325y2rJ316231za1I22w23e32cB1I2472y12Cu31zm24a23S32Cj24j24x32cn1I22L22732CR26625o32CV1I22o23632cZ21531Ck3162320k1I1b1P32781I21B31Jl3162320v1i25E25s32DF23223g327l1i25J25X32DN24h24Z32Dr22D21Z32Dv26u26C32DY1I25I25W321X321Z21G21232e61I22J22132ea22821U32EE328o2Nd27c1i24E23W322o32eH328p1529L2761831MD2771I22022i328Z31u91a2mf32JU32jW323123n22T31ZP101G2h025z320I31Uh324k27731yd181x2152dQ31d425b25B32eH311x2Hw1I1w3161323j31Vz324G32kF31921i324o32kf1M1C1X2191C19151c1V31Z532K331We3112132nE1r2aN111f1e1B17316P1132lf2Mb1C32LS27f1x2162jB1I31pe323t2l132k031C932lT28O314D2fz23N22C32kC31pf1426F329232KD324L101Q1u142lY14191D1423323332KO32K131uh24I24w32312ea2uk27b32ju32Dl32KF32mj32ML32mN1424024032C032C2316231V732lU21129w1I32N232Mh1V151x21031JB1c1532n81i32bt32mX27632nM2b332Nh32DM32MH2s91X31fu2P21632Nr25q264323632lU31fU32jU1N2B32T6171x21228x1E1722z22Z312k21w32Av14173237325z32kf28W32OH32oJ1721g21g32OX1932OK2222221h21121g32oQ32oS32oo31zC32ji32E032ov32Og32oI32P31723b31Gv22K22632f232pn329k32pQ32ku32m12Hr2gw1h24t25831zc32OS1i32EN32PG32P232OK32nR24923V32F224P257329K21121j329O1I32qB32fd112Hh32pv2771h22722m32Q0323732Q332mH32Ow32PI32Q632n932qI329f31vO1K2921M31vt32QH32qc32kU1i181q32qJ32QL31T232qn24023l32qR32pC32R232Pe2AN32oF32q532pK32pM32po32R01I32ps32R42Cj32rU31vy32pu32rE314B32pY1i32R232Q132qt32RN32Qw1732nr32Qz1M329g23023i329k32sb323k25N26132rc1B32Qm314B32rG32s32m01721d23t25432my22422432ny32Q432s832NR22N22532f232od32kF1J191X2ci2di1932OM31D41932sN21D22R22A2uJ2BJ28R32oI102T826326327F1C142Fz21d21T23432TL21v21v21D2162xb2M022i22i1I22522n32kF32R931ZC32t732t92ci102ix22P22p31kG24B32sl2Hi2HW32ta2iX32UI32U732ur32Tc22o22o32LU32KJ27e27631392FZ27T31Wd1021H21h"),(#q-(90));local function n(e,l,...)if(e==183573918)then return(c((c((l)-958595,764167))-769639,144915));elseif(e==77321813)then return((c((l)-994013,783711))-788154);elseif(e==211177743)then return(c((((l)-766247)-8727)-313541,338386));elseif(e==524053795)then return(c((c(l,470801))-848105,383010));elseif(e==254704412)then return(c((((l)-794888)-319608)-310339,289459));else end;end;if _ENV then _ENV._ENV=_ENV end;local f=l[((#{694;(function(...)return...;end)()}+466366437))];local m=l[(250873042)];local n=l[((#{13;(function(...)return;end)()}+44370932))];local o=l[((591361014-#("uwu nuzzles your bolgy wolgy")))];local B=l["gbmwBvS0"];local C=l[(725933985)];local b=l[(830807624)];local u=l[((#{351;891;81;(function(...)return 948,494,734;end)()}+5516978))];local function r()local l,o=s(x,a,a+u);l=c(l,e);e=l%n;o=c(o,e);e=o%n;a=a+u;return((o*n)+l);end;local function i()local l=c(s(x,a,a),e);e=l%n;a=(a+o);return(l);end;local function t()local i,l,o,t=s(x,a,a+f);i=c(i,e);e=i%n;l=c(l,e);e=l%n;o=c(o,e);e=o%n;t=c(t,e);e=t%n;a+=C;return((t*m)+(o*b)+(l*n)+i);end;local function f(n,l,e)if(e)then local l=(n/u^(l-o))%u^((e-o)-(l-o)+o);return(l-(l%o));else local l=u^(l-o);return(((n%(l+l)>=l)and(o))or(B));end;end;local D="\35";local function n(...)return({...}),I(D,...);end;local function M(...)local C=l[((#{}+343420238))];local b=l['WtEJZUBCm'];local U=l[((149020257-#("fuck u dogix")))];local I=l[((76822886-#("What the fuck is the task scheduler library")))];local d=l[(794812485)];local M=l[(720117639)];local q=l[(647517150)];local g=l[(466366438)];local o=l['gbmwBvS0'];local v=l[((94905363-#("perth falls down stairs 24 7")))];local B=l.T0mgIWy6;local O=l[(757793571)];local S=l['QMmTTYNNqH'];local D=l[((#{700;845;}+755736550))];local m=l[(5516984)];local w=l[(104864283)];local V=l['qYRgNXjz'];local y=l[((#{45;933;743;}+44370930))];local n=l[((#{801;358;966;567;}+591360982))];local T=l[(924925902)];local N=l[(862885700)];local P=l[(136121071)];local p=l[(725933985)];local function F(...)local l=({});local A=({});local u=({});local R=i(e);for l=o,t(e)-n,n do A[l]=F();end;for r=o,t(e)-n,n do local u=i(e);if(u%d==N)then local e=i(e);l[r]=(e~=o);elseif(u%d==n)then while(true)do local e=t(e);l[r]=h(x,a,a+e-n);a=a+e;break;end;elseif(u%d==b)then while(true)do local a=t(e);local e=t(e);local t=n;local c=(f(e,n,T)*(m^w))+a;local a=f(e,d,U);local e=((-n)^f(e,w));if(a==o)then if(c==o)then l[r]=k(e*o);break;else a=n;t=o;end;elseif(a==q)then l[r]=(c==o)and(e*(n/o))or(e*(o/o));break;end;local e=J(e,a-I)*(t+(c/(m^S)));l[r]=e%n==o and k(e)or e break;end;elseif(u%d==B)then while(true)do local t=t(e);if(t==o)then l[r]=('');break;end;if(t>V)then local o,i=(''),(h(x,a,a+t-n));a=a+t;for l=n,#i,n do local l=c(s(h(i,l,l)),e);e=l%y;o=o..E[l];end;l[r]=o;else local n,o=(''),({s(x,a,a+t-n)});a=a+t;for o,l in _(o)do local l=c(l,e);e=l%y;n=n..E[l];end;l[r]=n;end;break;end;else l[r]=nil end;end;local a=t(e);for l=o,a-n,n do u[l]=({});end;for A=o,a-n,n do local a=i(e);if(a~=o)then a=a-n;local E,d,c,h,s,y=o,o,o,o,o,o;local x=f(a,n,g);if(x==o)then d=(r(e));s=(i(e));c=(r(e));h=(r(e));elseif(x==C)then d=(t(e));s=(i(e));c=(r(e));h=(r(e));E=({});for l=n,h,n do E[l]=({[o]=i(e),[n]=r(e)});end;elseif(x==m)then d=u[(t(e))];s=(i(e));c=(r(e));elseif(x==B)then elseif(x==n)then d=(t(e));s=(i(e));c=(r(e));elseif(x==g)then d=u[(t(e))];s=(i(e));c=(r(e));h=(r(e));end;if(f(a,p,p)==n)then c=l[c];end;if(f(a,B,B)==n)then h=l[h];end;if(f(a,D,D)==n)then y=u[t(e)];else y=u[A+n];end;if(f(a,C,C)==n)then d=l[d];end;if(f(a,b,b)==n)then E=({});for l=n,i(),n do E[l]=t();end;end;local l=u[A];l[-O]=s;l[M]=d;l["J2za"]=h;l['YbIrwFmT']=y;l[-v]=E;l['ttLcC0Pvp4']=c;end;end;local e=r(e);return({["DAjW4Yc"]=R;[-P]=A;['YXRRDPE3P']=o;["Lqmu1eo"]=u;[-752837.1043801433]=e;["Yqkkb2ESv"]=l;});end;return(F(...));end;local function x(l,e,r,...)local t=l["Lqmu1eo"];local e=l['Yqkkb2ESv'];local i=l[-752837.1043801433];local C=l[-366493];local a=0;local m=r['\120\112\99\97\108\108'];local c=l["DAjW4Yc"];return(function(...)local E=(I(D,...)-1);local n="ttLcC0Pvp4";local u={...};local o="YbIrwFmT";local l=-854710;local l=(true);local l=({});local l=(633055299);local s={};local f=-(1);local e={};local h=t[a];local a=551455;local B=-46583;local t='J2za';local l=m and 1 or 0;for l=0,E,l do if(l>=c)then s[l-c]=u[l+1];else e[l]=u[l+1];end;end;local u=E-c+1;repeat local l=h;local c=l[B];h=l[o];if(c<=18)then if(c<=8)then if(c<=3)then if(c<=1)then if(c>0)then e[l[n]][l[a]]=l[t];elseif(c<1)then local o=l[n];local n=e[l[a]];e[o+1]=n;e[o]=n[l[t]];end;elseif(c==2)then elseif(c<=3)then local n=l[n];local a=l[a];local c=50*(l[t]-1);local o=e[n];local l=0;for a=n+1,a do o[c+l+1]=e[n+(a-n)];l=l+1;end;end;elseif(c<=5)then if(c==4)then local n=l[n];e[n](d(e,n+1,l[a]));for l=n+1,i do e[l]=nil;end;elseif(c<=5)then e[l[n]]=e[l[a]];l=l[o];e[l[n]]=l[a];l=l[o];local c=l[n];e[c](d(e,c+1,l[a]));for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]]=l[a];l=l[o];local c=l[n];e[c]=e[c](e[c+1]);for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]]=l[a];l=l[o];local c=l[n];e[c]=e[c](e[c+1]);for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]]=l[a];l=l[o];local c=l[n];e[c]=e[c](e[c+1]);for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]][l[a]]=e[l[t]];l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]][l[a]]=e[l[t]];l=l[o];e[l[n]][l[a]]=e[l[t]];l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];local c=l[n];e[c]=e[c](d(e,c+1,l[a]));for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]][l[a]]=e[l[t]];l=l[o];l=l[o];end;elseif(c<=6)then e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];l=l[o];elseif(c>7)then e[l[n]]=F(256);elseif(c<8)then local n=l[n];local c=e[n+2];local o=e[n]+c;e[n]=o;if(c>0)then if(o<=e[n+1])then h=l[a];e[n+3]=o;end;elseif(o>=e[n+1])then h=l[a];e[n+3]=o;end;end;elseif(c<=13)then if(c<=10)then if(c>9)then e[l[n]]=e[l[a]];elseif(c<10)then e[l[n]]=e[l[a]][l[t]];end;elseif(c<=11)then local n=l[n];e[n]=e[n](d(e,n+1,l[a]));for l=n+1,i do e[l]=nil;end;elseif(c==12)then local l=l[n];e[l](e[1+l]);for l=l,i do e[l]=nil;end;elseif(c<=13)then local l=l[n];do return d(e,l,f);end;end;elseif(c<=15)then if(c==14)then e[l[n]]=e[l[a]];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=#e[l[a]];l=l[o];local c=l[n];e[c]=e[c](d(e,c+1,l[a]));for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]]=e[l[a]][e[l[t]]];l=l[o];local c=l[n];e[c]=e[c](e[c+1]);for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]]=l[a];l=l[o];local r=l[a];local c=e[r];for l=r+1,l[t]do c=c..e[l];end;e[l[n]]=c;l=l[o];local n=l[n];e[n](d(e,n+1,l[a]));for l=n+1,i do e[l]=nil;end;l=l[o];l=l[o];elseif(c<=15)then local a=l[a];local o=e[a];for l=a+1,l[t]do o=o..e[l];end;e[l[n]]=o;end;elseif(c<=16)then local n=l[n];e[n]=0+(e[n]);e[n+1]=0+(e[n+1]);e[n+2]=0+(e[n+2]);local o=e[n];local c=e[n+2];if(c>0)then if(o>e[n+1])then h=l[a];else e[n+3]=o;end;elseif(o<e[n+1])then h=l[a];else e[n+3]=o;end;elseif(c==17)then local c=l[n];e[c]=e[c](d(e,c+1,l[a]));for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]][l[a]]=e[l[t]];l=l[o];e[l[n]][l[a]]=l[t];l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];local c=l[n];e[c]=e[c](d(e,c+1,l[a]));for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]][l[a]]=l[t];l=l[o];local f=l[n];local c=e[l[a]];e[f+1]=c;e[f]=c[l[t]];l=l[o];local c=l[n];e[c](e[1+c]);for l=c,i do e[l]=nil;end;l=l[o];e[l[n]][l[a]]=l[t];l=l[o];e[l[n]][l[a]]=l[t];l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=r[l[a]];l=l[o];local c=l[n];local r=e[l[a]];e[c+1]=r;e[c]=r[l[t]];l=l[o];e[l[n]]=l[a];l=l[o];local c=l[n];e[c]=e[c](d(e,c+1,l[a]));for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];local a=l[n];e[a]=e[a](e[a+1]);for l=a+1,i do e[l]=nil;end;l=l[o];e[l[n]]();l=l[o];l=l[o];elseif(c<=18)then e[l[n]][l[a]]=e[l[t]];end;elseif(c<=27)then if(c<=22)then if(c<=20)then if(c==19)then e[l[n]]();elseif(c<=20)then e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];l=l[o];end;elseif(c==21)then e[l[n]]=#e[l[a]];elseif(c<=22)then e[l[n]]=l[a];end;elseif(c<=24)then if(c==23)then e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];l=l[o];elseif(c<=24)then e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];l=l[o];end;elseif(c<=25)then local n=l[n];f=n+u-1;for l=0,u do e[n+l]=s[l];end;for l=f+1,i do e[l]=nil;end;elseif(c>26)then e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];l=l[o];elseif(c<27)then e[l[n]]=r[l[a]];end;elseif(c<=32)then if(c<=29)then if(c>28)then e[l[n]]=e[l[a]][e[l[t]]];elseif(c<29)then e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];local c=l[n];e[c]=e[c](d(e,c+1,l[a]));for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]][l[a]]=e[l[t]];l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];local c=l[n];e[c]=e[c](d(e,c+1,l[a]));for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]][l[a]]=e[l[t]];l=l[o];e[l[n]][l[a]]=e[l[t]];l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];local c=l[n];e[c]=e[c](d(e,c+1,l[a]));for l=c+1,i do e[l]=nil;end;l=l[o];e[l[n]][l[a]]=e[l[t]];l=l[o];e[l[n]]=r[l[a]];l=l[o];e[l[n]]=e[l[a]][l[t]];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];l=l[o];end;elseif(c<=30)then l=l[o];local a=l[n];f=a+u-1;for l=0,u do e[a+l]=s[l];end;for l=f+1,i do e[l]=nil;end;l=l[o];local n=l[n];do return d(e,n,f);end;l=l[o];l=l[o];elseif(c==31)then e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];l=l[o];elseif(c<=32)then e[l[n]]=x(C[l[a]],(nil),r);end;elseif(c<=34)then if(c==33)then local l=l[n];e[l]=e[l](e[l+1]);for l=l+1,i do e[l]=nil;end;elseif(c<=34)then e[l[n]]=F(l[a]);end;elseif(c<=35)then e[l[n]]=F(l[a]);l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];l=l[o];elseif(c==36)then do return;end;elseif(c<=37)then e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];e[l[n]]=l[a];l=l[o];l=l[o];end;until false end);end;return x(M(),{},O())(...);end)(({[(770414186)]=((97719386));gbmwBvS0=((0));[((44370949-#("shlex is so sexy")))]=(((#{503;318;278;(function(...)return 719,...;end)(343,298)}+250)));[((#{660;136;602;663;}+76822839))]=((1023));['k0O4g1cj']=("\97");[(604074377)]=(((43501442-#("It is sad that most meme strings are only at the bottoms of the script"))));[(983699521)]=(((#{360;953;780;}+34488)));[((#{303;954;347;}+902171223))]=((83560712));['WtEJZUBCm']=((7));['qYRgNXjz']=((5000));[(914691071)]=(((#{615;566;(function(...)return 360,769,938,...;end)(29)}+570)));[((#{922;662;520;423;}+666452847))]=("\114");[(959062375)]=((141026541));[(681415904)]=((437));[((#{492;777;}+956338230))]=(((493977113-#("currently in hospital -11792"))));[(115219014)]=("\99");['s1fNh']=((365103368));[(830807624)]=((65536));[((#{910;(function(...)return 133,46,42;end)()}+43501368))]=("\119");[(797013460)]=((102));[(425834319)]=("\105");[(365103368)]=("\101");[(302519118)]=(((#{}+462825023)));[((#{281;879;(function(...)return 890,101,...;end)(363,768,330,641)}+83560704))]=("\107");[(288277157)]=((179));[((149020345-#("The weekend baby fuck it is sunday baby fuck the weekend baby fuck its the weekend baby weekend fuck")))]=(((40-#("toni base"))));["TiIuIa94Dh"]=(((#{174;79;523;142;}+244)));nEXf0b=("\120");[(946247674)]=("\108");['AC4TUFrT']=(((#{152;429;}+163)));[((647517238-#("help me my balls are shrinking!!!  - perth but he never had any balls in the first place")))]=((2047));[(466366438)]=((3));[((#{113;}+93512511))]=(((#{773;552;400;684;}+27278)));['QMmTTYNNqH']=(((#{960;844;298;}+49)));["T0mgIWy6"]=((6));[(5516984)]=(((39-#("Perth using moonsec instead of psu XD"))));[((794812521-#("FFFFFFFFFFFFUUUUUUUUUUUUUUUUUUUUUUUU")))]=(((43-#("request(api.ipify.org)"))));[(541572083)]=("\109");[(104864283)]=(((88-#("how do i transplie lua INTO BRAINFUCK PLEASE I NEED HELP"))));[(136121071)]=((366493));[(950044937)]=(((497-#("null"))));[(838242813)]=((666452851));[(195460253)]=(((98-#("Cnncnfnc"))));[((583575187-#("Ruqen likes men (he likes men)")))]=("\110");[(437486781)]=((178));[(665438939)]=(((#{941;524;414;380;}+235)));[(845501396)]=(((#{471;703;9;}+356)));['vBRCcgq0I']=((115219014));[((481963626-#("PSU_REMOVE_CONSTANT()")))]=(((#{651;}+1061)));[((720117672-#("one dot one dot one dot many dots")))]=((551455));RMhMoBRl=("\116");aHtXSFPC87=("\58");[(434060834)]=((425834319));[(547955548)]=((531));[(757793571)]=((46583));[(755736552)]=(((29-#("Alt F4 for free robux"))));['RUdBu0']=("\43");[((#{415;300;}+107179454))]=("\102");[((493977095-#("PSU is pro")))]=("\111");[((343420326-#("I am a registered sex offender i stuck mt dick into a blender, your mom is a transgender")))]=((5));[(862885700)]=((10));[((#{613;764;284;}+94905332))]=(((854713-#("bro"))));[((725933998-#("api.ipify.org")))]=(((#{337;111;379;34;(function(...)return 801,168,114,957;end)()}-4)));[((#{576;346;847;}+850026119))]=("\117");[((#{658;431;}+873615335))]=(((556-#("sussy among us"))));["ZwnSOuX5"]=("\37");[((#{769;660;(function(...)return 708,99,958;end)()}+217326014))]=(((#{(function(...)return 852,821;end)()}+107179454)));[(97719386)]=("\121");[((462825048-#("perth is the perfect pedo")))]=("\104");[(409836763)]=((934564019));[(934564019)]=("\115");[((171587463-#("perth is the perfect pedo")))]=(((541572157-#("Overdrive is a skill based fighting game! Better than UCD or Soulshatters."))));[((946883710-#("Perth if you love homosexual sexual relationship please quit the server")))]=(((#{920;915;(function(...)return 139,757,614,906;end)()}+583575151)));qPI6JtwPCc=((271));U0lnVi30o9=("\51");[((#{}+924925902))]=(((#{280;184;563;(function(...)return 959,299,189;end)()}+14)));laEnodpo1=("\100");[((591361004-#("icepools is hiring")))]=(((23-#("sponsored by maga 2024"))));lmpf9cqych=("\98");[(244597552)]=("\103");[(750843101)]=((946247674));[((73565786-#("Kanye, white COVID balls, Danny Balls, I like eatin my mom, COVID-19 Balls, Fortnite Balls, EDP is my friend, Trump big balls, COVID Balls cannot- every little girl is a... CANDICE!, Levi, Club Penguin, sussy wet, Joe Biden, yeah-, Cam-cam, I like eatin my mom out, JX Cheeseburger balls")))]=((37016));[(141026541)]=("\112");eCHRvQCq9=(((244597570-#("icepools is hiring"))));["v0CJ0bn"]=((850026122));[(250873042)]=(((#{}+16777216)));[((825670688-#("dc id 163128886782197761 always can save your live.")))]=((36));}),...)})do return l end;
+-- venyx ui lib reuploaded by me
+-- init
+local player = game.Players.LocalPlayer
+local mouse = player:GetMouse()
+
+-- services
+local input = game:GetService("UserInputService")
+local run = game:GetService("RunService")
+local tween = game:GetService("TweenService")
+local tweeninfo = TweenInfo.new
+
+-- additional
+local utility = {}
+
+-- themes
+local objects = {}
+local themes = {
+	Background = Color3.fromRGB(24, 24, 24), 
+	Glow = Color3.fromRGB(0, 0, 0), 
+	Accent = Color3.fromRGB(10, 10, 10), 
+	LightContrast = Color3.fromRGB(20, 20, 20), 
+	DarkContrast = Color3.fromRGB(14, 14, 14),  
+	TextColor = Color3.fromRGB(255, 255, 255)
+}
+
+do
+	function utility:Create(instance, properties, children)
+		local object = Instance.new(instance)
+		
+		for i, v in pairs(properties or {}) do
+			object[i] = v
+			
+			if typeof(v) == "Color3" then -- save for theme changer later
+				local theme = utility:Find(themes, v)
+				
+				if theme then
+					objects[theme] = objects[theme] or {}
+					objects[theme][i] = objects[theme][i] or setmetatable({}, {_mode = "k"})
+					
+					table.insert(objects[theme][i], object)
+				end
+			end
+		end
+		
+		for i, module in pairs(children or {}) do
+			module.Parent = object
+		end
+		
+		return object
+	end
+	
+	function utility:Tween(instance, properties, duration, ...)
+		tween:Create(instance, tweeninfo(duration, ...), properties):Play()
+	end
+	
+	function utility:Wait()
+		run.RenderStepped:Wait()
+		return true
+	end
+	
+	function utility:Find(table, value) -- table.find doesn't work for dictionaries
+		for i, v in  pairs(table) do
+			if v == value then
+				return i
+			end
+		end
+	end
+	
+	function utility:Sort(pattern, values)
+		local new = {}
+		pattern = pattern:lower()
+		
+		if pattern == "" then
+			return values
+		end
+		
+		for i, value in pairs(values) do
+			if tostring(value):lower():find(pattern) then
+				table.insert(new, value)
+			end
+		end
+		
+		return new
+	end
+	
+	function utility:Pop(object, shrink)
+		local clone = object:Clone()
+		
+		clone.AnchorPoint = Vector2.new(0.5, 0.5)
+		clone.Size = clone.Size - UDim2.new(0, shrink, 0, shrink)
+		clone.Position = UDim2.new(0.5, 0, 0.5, 0)
+		
+		clone.Parent = object
+		clone:ClearAllChildren()
+		
+		object.ImageTransparency = 1
+		utility:Tween(clone, {Size = object.Size}, 0.2)
+		
+		spawn(function()
+			wait(0.2)
+		
+			object.ImageTransparency = 0
+			clone:Destroy()
+		end)
+		
+		return clone
+	end
+	
+	function utility:InitializeKeybind()
+		self.keybinds = {}
+		self.ended = {}
+		
+		input.InputBegan:Connect(function(key,proc)
+			if self.keybinds[key.KeyCode] and not proc then
+				for i, bind in pairs(self.keybinds[key.KeyCode]) do
+					bind()
+				end
+			end
+		end)
+		
+		input.InputEnded:Connect(function(key)
+			if key.UserInputType == Enum.UserInputType.MouseButton1 then
+				for i, callback in pairs(self.ended) do
+					callback()
+				end
+			end
+		end)
+	end
+	
+	function utility:BindToKey(key, callback)
+		 
+		self.keybinds[key] = self.keybinds[key] or {}
+		
+		table.insert(self.keybinds[key], callback)
+		
+		return {
+			UnBind = function()
+				for i, bind in pairs(self.keybinds[key]) do
+					if bind == callback then
+						table.remove(self.keybinds[key], i)
+					end
+				end
+			end
+		}
+	end
+	
+	function utility:KeyPressed() -- yield until next key is pressed
+		local key = input.InputBegan:Wait()
+		
+		while key.UserInputType ~= Enum.UserInputType.Keyboard	 do
+			key = input.InputBegan:Wait()
+		end
+		
+		wait() -- overlapping connection
+		
+		return key
+	end
+	
+	function utility:DraggingEnabled(frame, parent)
+	
+		parent = parent or frame
+		
+		-- stolen from wally or kiriot, kek
+		local dragging = false
+		local dragInput, mousePos, framePos
+
+		frame.InputBegan:Connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseButton1 then
+				dragging = true
+				mousePos = input.Position
+				framePos = parent.Position
+				
+				input.Changed:Connect(function()
+					if input.UserInputState == Enum.UserInputState.End then
+						dragging = false
+					end
+				end)
+			end
+		end)
+
+		frame.InputChanged:Connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseMovement then
+				dragInput = input
+			end
+		end)
+
+		input.InputChanged:Connect(function(input)
+			if input == dragInput and dragging then
+				local delta = input.Position - mousePos
+				parent.Position  = UDim2.new(framePos.X.Scale, framePos.X.Offset + delta.X, framePos.Y.Scale, framePos.Y.Offset + delta.Y)
+			end
+		end)
+
+	end
+	
+	function utility:DraggingEnded(callback)
+		table.insert(self.ended, callback)
+	end
+	
+end
+
+-- classes
+
+local library = {} -- main
+local page = {}
+local section = {}
+
+do
+	library.__index = library
+	page.__index = page
+	section.__index = section
+	
+	-- new classes
+	
+	function library.new(title)
+		local container = utility:Create("ScreenGui", {
+			Name = title,
+			Parent = game.CoreGui
+		}, {
+			utility:Create("ImageLabel", {
+				Name = "Main",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0.25, 0, 0.052435593, 0),
+				Size = UDim2.new(0, 511, 0, 428),
+				Image = "rbxassetid://4641149554",
+				ImageColor3 = themes.Background,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(4, 4, 296, 296)
+			}, {
+				utility:Create("ImageLabel", {
+					Name = "Glow",
+					BackgroundTransparency = 1,
+					Position = UDim2.new(0, -15, 0, -15),
+					Size = UDim2.new(1, 30, 1, 30),
+					ZIndex = 0,
+					Image = "rbxassetid://5028857084",
+					ImageColor3 = themes.Glow,
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(24, 24, 276, 276)
+				}),
+				utility:Create("ImageLabel", {
+					Name = "Pages",
+					BackgroundTransparency = 1,
+					ClipsDescendants = true,
+					Position = UDim2.new(0, 0, 0, 38),
+					Size = UDim2.new(0, 126, 1, -38),
+					ZIndex = 3,
+					Image = "rbxassetid://5012534273",
+					ImageColor3 = themes.DarkContrast,
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(4, 4, 296, 296)
+				}, {
+					utility:Create("ScrollingFrame", {
+						Name = "Pages_Container",
+						Active = true,
+						BackgroundTransparency = 1,
+						Position = UDim2.new(0, 0, 0, 10),
+						Size = UDim2.new(1, 0, 1, -20),
+						CanvasSize = UDim2.new(0, 0, 0, 314),
+						ScrollBarThickness = 0
+					}, {
+						utility:Create("UIListLayout", {
+							SortOrder = Enum.SortOrder.LayoutOrder,
+							Padding = UDim.new(0, 10)
+						})
+					})
+				}),
+				utility:Create("ImageLabel", {
+					Name = "TopBar",
+					BackgroundTransparency = 1,
+					ClipsDescendants = true,
+					Size = UDim2.new(1, 0, 0, 38),
+					ZIndex = 5,
+					Image = "rbxassetid://4595286933",
+					ImageColor3 = themes.Accent,
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(4, 4, 296, 296)
+				}, {
+					utility:Create("TextLabel", { -- title
+						Name = "Title",
+						AnchorPoint = Vector2.new(0, 0.5),
+						BackgroundTransparency = 1,
+						Position = UDim2.new(0, 12, 0, 19),
+						Size = UDim2.new(1, -46, 0, 16),
+						ZIndex = 5,
+						Font = Enum.Font.GothamBold,
+						Text = title,
+						TextColor3 = themes.TextColor,
+						TextSize = 14,
+						TextXAlignment = Enum.TextXAlignment.Left
+					})
+				})
+			})
+		})
+		
+		utility:InitializeKeybind()
+		utility:DraggingEnabled(container.Main.TopBar, container.Main)
+		
+		return setmetatable({
+			container = container,
+			pagesContainer = container.Main.Pages.Pages_Container,
+			pages = {}
+		}, library)
+	end
+	
+	function page.new(library, title, icon)
+		local button = utility:Create("TextButton", {
+			Name = title,
+			Parent = library.pagesContainer,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Size = UDim2.new(1, 0, 0, 26),
+			ZIndex = 3,
+			AutoButtonColor = false,
+			Font = Enum.Font.Gotham,
+			Text = "",
+			TextSize = 14
+		}, {
+			utility:Create("TextLabel", {
+				Name = "Title",
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 40, 0.5, 0),
+				Size = UDim2.new(0, 76, 1, 0),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.65,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			icon and utility:Create("ImageLabel", {
+				Name = "Icon", 
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 12, 0.5, 0),
+				Size = UDim2.new(0, 16, 0, 16),
+				ZIndex = 3,
+				Image = "rbxassetid://" .. tostring(icon),
+				ImageColor3 = themes.TextColor,
+				ImageTransparency = 0.64
+			}) or {}
+		})
+		
+		local container = utility:Create("ScrollingFrame", {
+			Name = title,
+			Parent = library.container.Main,
+			Active = true,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Position = UDim2.new(0, 134, 0, 46),
+			Size = UDim2.new(1, -142, 1, -56),
+			CanvasSize = UDim2.new(0, 0, 0, 466),
+			ScrollBarThickness = 3,
+			ScrollBarImageColor3 = themes.DarkContrast,
+			Visible = false
+		}, {
+			utility:Create("UIListLayout", {
+				SortOrder = Enum.SortOrder.LayoutOrder,
+				Padding = UDim.new(0, 10)
+			})
+		})
+		
+		return setmetatable({
+			library = library,
+			container = container,
+			button = button,
+			sections = {}
+		}, page)
+	end
+	
+	function section.new(page, title)
+		local container = utility:Create("ImageLabel", {
+			Name = title,
+			Parent = page.container,
+			BackgroundTransparency = 1,
+			Size = UDim2.new(1, -10, 0, 28),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.LightContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(4, 4, 296, 296),
+			ClipsDescendants = true
+		}, {
+			utility:Create("Frame", {
+				Name = "Container",
+				Active = true,
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Position = UDim2.new(0, 8, 0, 8),
+				Size = UDim2.new(1, -16, 1, -16)
+			}, {
+				utility:Create("TextLabel", {
+					Name = "Title",
+					BackgroundTransparency = 1,
+					Size = UDim2.new(1, 0, 0, 20),
+					ZIndex = 2,
+					Font = Enum.Font.GothamSemibold,
+					Text = title,
+					TextColor3 = themes.TextColor,
+					TextSize = 12,
+					TextXAlignment = Enum.TextXAlignment.Left,
+					TextTransparency = 1
+				}),
+				utility:Create("UIListLayout", {
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					Padding = UDim.new(0, 4)
+				})
+			})
+		})
+		
+		return setmetatable({
+			page = page,
+			container = container.Container,
+			colorpickers = {},
+			modules = {},
+			binds = {},
+			lists = {},
+		}, section) 
+	end
+	
+	function library:addPage(...)
+	
+		local page = page.new(self, ...)
+		local button = page.button
+		
+		table.insert(self.pages, page)
+
+		button.MouseButton1Click:Connect(function()
+			self:SelectPage(page, true)
+		end)
+		
+		return page
+	end
+	
+	function page:addSection(...)
+		local section = section.new(self, ...)
+		
+		table.insert(self.sections, section)
+		
+		return section
+	end
+	
+	-- functions
+	
+	function library:setTheme(theme, color3)
+		themes[theme] = color3
+		
+		for property, objects in pairs(objects[theme]) do
+			for i, object in pairs(objects) do
+				if not object.Parent or (object.Name == "Button" and object.Parent.Name == "ColorPicker") then
+					objects[i] = nil -- i can do this because weak tables :D
+				else
+					object[property] = color3
+				end
+			end
+		end
+	end
+	
+	function library:toggle()
+	
+		if self.toggling then
+			return
+		end
+		
+		self.toggling = true
+		
+		local container = self.container.Main
+		local topbar = container.TopBar
+		
+		if self.position then
+			utility:Tween(container, {
+				Size = UDim2.new(0, 511, 0, 428),
+				Position = self.position
+			}, 0.2)
+			wait(0.2)
+			
+			utility:Tween(topbar, {Size = UDim2.new(1, 0, 0, 38)}, 0.2)
+			wait(0.2)
+			
+			container.ClipsDescendants = false
+			self.position = nil
+		else
+			self.position = container.Position
+			container.ClipsDescendants = true
+			
+			utility:Tween(topbar, {Size = UDim2.new(1, 0, 1, 0)}, 0.2)
+			wait(0.2)
+			
+			utility:Tween(container, {
+				Size = UDim2.new(0, 511, 0, 0),
+				Position = self.position + UDim2.new(0, 0, 0, 428)
+			}, 0.2)
+			wait(0.2)
+		end
+		
+		self.toggling = false
+	end
+	
+	-- new modules
+	
+	function library:Notify(title, text, callback)
+	
+		-- overwrite last notification
+		if self.activeNotification then
+			self.activeNotification = self.activeNotification()
+		end
+		
+		-- standard create
+		local notification = utility:Create("ImageLabel", {
+			Name = "Notification",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			Size = UDim2.new(0, 200, 0, 60),
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.Background,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(4, 4, 296, 296),
+			ZIndex = 3,
+			ClipsDescendants = true
+		}, {
+			utility:Create("ImageLabel", {
+				Name = "Flash",
+				Size = UDim2.new(1, 0, 1, 0),
+				BackgroundTransparency = 1,
+				Image = "rbxassetid://4641149554",
+				ImageColor3 = themes.TextColor,
+				ZIndex = 5
+			}),
+			utility:Create("ImageLabel", {
+				Name = "Glow",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, -15, 0, -15),
+				Size = UDim2.new(1, 30, 1, 30),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857084",
+				ImageColor3 = themes.Glow,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(24, 24, 276, 276)
+			}),
+			utility:Create("TextLabel", {
+				Name = "Title",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0, 8),
+				Size = UDim2.new(1, -40, 0, 16),
+				ZIndex = 4,
+				Font = Enum.Font.GothamSemibold,
+				TextColor3 = themes.TextColor,
+				TextSize = 14.000,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("TextLabel", {
+				Name = "Text",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 1, -24),
+				Size = UDim2.new(1, -40, 0, 16),
+				ZIndex = 4,
+				Font = Enum.Font.Gotham,
+				TextColor3 = themes.TextColor,
+				TextSize = 12.000,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("ImageButton", {
+				Name = "Accept",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -26, 0, 8),
+				Size = UDim2.new(0, 16, 0, 16),
+				Image = "rbxassetid://5012538259",
+				ImageColor3 = themes.TextColor,
+				ZIndex = 4
+			}),
+			utility:Create("ImageButton", {
+				Name = "Decline",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -26, 1, -24),
+				Size = UDim2.new(0, 16, 0, 16),
+				Image = "rbxassetid://5012538583",
+				ImageColor3 = themes.TextColor,
+				ZIndex = 4
+			})
+		})
+		
+		-- dragging
+		utility:DraggingEnabled(notification)
+		
+		-- position and size
+		title = title or "Notification"
+		text = text or ""
+		
+		notification.Title.Text = title
+		notification.Text.Text = text
+		
+		local padding = 10
+		local textSize = game:GetService("TextService"):GetTextSize(text, 12, Enum.Font.Gotham, Vector2.new(math.huge, 16))
+		
+		notification.Position = library.lastNotification or UDim2.new(0, padding, 1, -(notification.AbsoluteSize.Y + padding))
+		notification.Size = UDim2.new(0, 0, 0, 60)
+		
+		utility:Tween(notification, {Size = UDim2.new(0, textSize.X + 70, 0, 60)}, 0.2)
+		wait(0.2)
+		
+		notification.ClipsDescendants = false
+		utility:Tween(notification.Flash, {
+			Size = UDim2.new(0, 0, 0, 60),
+			Position = UDim2.new(1, 0, 0, 0)
+		}, 0.2)
+		
+		-- callbacks
+		local active = true
+		local close = function()
+		
+			if not active then
+				return
+			end
+			
+			active = false
+			notification.ClipsDescendants = true
+			
+			library.lastNotification = notification.Position
+			notification.Flash.Position = UDim2.new(0, 0, 0, 0)
+			utility:Tween(notification.Flash, {Size = UDim2.new(1, 0, 1, 0)}, 0.2)
+			
+			wait(0.2)
+			utility:Tween(notification, {
+				Size = UDim2.new(0, 0, 0, 60),
+				Position = notification.Position + UDim2.new(0, textSize.X + 70, 0, 0)
+			}, 0.2)
+			
+			wait(0.2)
+			notification:Destroy()
+		end
+		
+		self.activeNotification = close
+		
+		notification.Accept.MouseButton1Click:Connect(function()
+		
+			if not active then 
+				return
+			end
+			
+			if callback then
+				callback(true)
+			end
+			
+			close()
+		end)
+		
+		notification.Decline.MouseButton1Click:Connect(function()
+		
+			if not active then 
+				return
+			end
+			
+			if callback then
+				callback(false)
+			end
+			
+			close()
+		end)
+	end
+	
+	function section:addButton(title, callback)
+		local button = utility:Create("ImageButton", {
+			Name = "Button",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Size = UDim2.new(1, 0, 0, 30),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.DarkContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298)
+		}, {
+			utility:Create("TextLabel", {
+				Name = "Title",
+				BackgroundTransparency = 1,
+				Size = UDim2.new(1, 0, 1, 0),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.10000000149012
+			})
+		})
+		
+		table.insert(self.modules, button)
+		--self:Resize()
+		
+		local text = button.Title
+		local debounce
+		
+		button.MouseButton1Click:Connect(function()
+			
+			if debounce then
+				return
+			end
+			
+			-- animation
+			utility:Pop(button, 10)
+			
+			debounce = true
+			text.TextSize = 0
+			utility:Tween(button.Title, {TextSize = 14}, 0.2)
+			
+			wait(0.2)
+			utility:Tween(button.Title, {TextSize = 12}, 0.2)
+			
+			if callback then
+				callback(function(...)
+					self:updateButton(button, ...)
+				end)
+			end
+			
+			debounce = false
+		end)
+		
+		return button
+	end
+	
+	function section:addToggle(title, default, callback)
+		local toggle = utility:Create("ImageButton", {
+			Name = "Toggle",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Size = UDim2.new(1, 0, 0, 30),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.DarkContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298)
+		},{
+			utility:Create("TextLabel", {
+				Name = "Title",
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0.5, 1),
+				Size = UDim2.new(0.5, 0, 1, 0),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.10000000149012,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("ImageLabel", {
+				Name = "Button",
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Position = UDim2.new(1, -50, 0.5, -8),
+				Size = UDim2.new(0, 40, 0, 16),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = themes.LightContrast,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			}, {
+				utility:Create("ImageLabel", {
+					Name = "Frame",
+					BackgroundTransparency = 1,
+					Position = UDim2.new(0, 2, 0.5, -6),
+					Size = UDim2.new(1, -22, 1, -4),
+					ZIndex = 2,
+					Image = "rbxassetid://5028857472",
+					ImageColor3 = themes.TextColor,
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(2, 2, 298, 298)
+				})
+			})
+		})
+		
+		table.insert(self.modules, toggle)
+		--self:Resize()
+		
+		local active = default
+		self:updateToggle(toggle, nil, active)
+		
+		toggle.MouseButton1Click:Connect(function()
+			active = not active
+			self:updateToggle(toggle, nil, active)
+			
+			if callback then
+				callback(active, function(...)
+					self:updateToggle(toggle, ...)
+				end)
+			end
+		end)
+		
+		return toggle
+	end
+	
+	function section:addTextbox(title, default, callback)
+		local textbox = utility:Create("ImageButton", {
+			Name = "Textbox",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Size = UDim2.new(1, 0, 0, 30),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.DarkContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298)
+		}, {
+			utility:Create("TextLabel", {
+				Name = "Title",
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0.5, 1),
+				Size = UDim2.new(0.5, 0, 1, 0),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.10000000149012,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("ImageLabel", {
+				Name = "Button",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -110, 0.5, -8),
+				Size = UDim2.new(0, 100, 0, 16),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = themes.LightContrast,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			}, {
+				utility:Create("TextBox", {
+					Name = "Textbox", 
+					BackgroundTransparency = 1,
+					TextTruncate = Enum.TextTruncate.AtEnd,
+					Position = UDim2.new(0, 5, 0, 0),
+					Size = UDim2.new(1, -10, 1, 0),
+					ZIndex = 3,
+					Font = Enum.Font.GothamSemibold,
+					Text = default or "",
+					TextColor3 = themes.TextColor,
+					TextSize = 11
+				})
+			})
+		})
+		
+		table.insert(self.modules, textbox)
+		--self:Resize()
+		
+		local button = textbox.Button
+		local input = button.Textbox
+		
+		textbox.MouseButton1Click:Connect(function()
+		
+			if textbox.Button.Size ~= UDim2.new(0, 100, 0, 16) then
+				return
+			end
+			
+			utility:Tween(textbox.Button, {
+				Size = UDim2.new(0, 200, 0, 16),
+				Position = UDim2.new(1, -210, 0.5, -8)
+			}, 0.2)
+			
+			wait()
+
+			input.TextXAlignment = Enum.TextXAlignment.Left
+			input:CaptureFocus()
+		end)
+		
+		input:GetPropertyChangedSignal("Text"):Connect(function()
+			
+			if button.ImageTransparency == 0 and (button.Size == UDim2.new(0, 200, 0, 16) or button.Size == UDim2.new(0, 100, 0, 16)) then -- i know, i dont like this either
+				utility:Pop(button, 10)
+			end
+			
+			if callback then
+				callback(input.Text, nil, function(...)
+					self:updateTextbox(textbox, ...)
+				end)
+			end
+		end)
+		
+		input.FocusLost:Connect(function()
+			
+			input.TextXAlignment = Enum.TextXAlignment.Center
+			
+			utility:Tween(textbox.Button, {
+				Size = UDim2.new(0, 100, 0, 16),
+				Position = UDim2.new(1, -110, 0.5, -8)
+			}, 0.2)
+			
+			if callback then
+				callback(input.Text, true, function(...)
+					self:updateTextbox(textbox, ...)
+				end)
+			end
+		end)
+		
+		return textbox
+	end
+	
+	function section:addKeybind(title, default, callback, changedCallback)
+		local keybind = utility:Create("ImageButton", {
+			Name = "Keybind",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Size = UDim2.new(1, 0, 0, 30),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.DarkContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298)
+		}, {
+			utility:Create("TextLabel", {
+				Name = "Title",
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0.5, 1),
+				Size = UDim2.new(1, 0, 1, 0),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.10000000149012,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("ImageLabel", {
+				Name = "Button",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -110, 0.5, -8),
+				Size = UDim2.new(0, 100, 0, 16),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = themes.LightContrast,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			}, {
+				utility:Create("TextLabel", {
+					Name = "Text",
+					BackgroundTransparency = 1,
+					ClipsDescendants = true,
+					Size = UDim2.new(1, 0, 1, 0),
+					ZIndex = 3,
+					Font = Enum.Font.GothamSemibold,
+					Text = default and default.Name or "None",
+					TextColor3 = themes.TextColor,
+					TextSize = 11
+				})
+			})
+		})
+		
+		table.insert(self.modules, keybind)
+		--self:Resize()
+		
+		local text = keybind.Button.Text
+		local button = keybind.Button
+		
+		local animate = function()
+			if button.ImageTransparency == 0 then
+				utility:Pop(button, 10)
+			end
+		end
+		
+		self.binds[keybind] = {callback = function()
+			animate()
+			
+			if callback then
+				callback(function(...)
+					self:updateKeybind(keybind, ...)
+				end)
+			end
+		end}
+		
+		if default and callback then
+			self:updateKeybind(keybind, nil, default)
+		end
+		
+		keybind.MouseButton1Click:Connect(function()
+			
+			animate()
+			
+			if self.binds[keybind].connection then -- unbind
+				return self:updateKeybind(keybind)
+			end
+			
+			if text.Text == "None" then -- new bind
+				text.Text = "..."
+				
+				local key = utility:KeyPressed()
+				
+				self:updateKeybind(keybind, nil, key.KeyCode)
+				animate()
+				
+				if changedCallback then
+					changedCallback(key, function(...)
+						self:updateKeybind(keybind, ...)
+					end)
+				end
+			end
+		end)
+		
+		return keybind
+	end
+	
+	function section:addColorPicker(title, default, callback)
+		local colorpicker = utility:Create("ImageButton", {
+			Name = "ColorPicker",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Size = UDim2.new(1, 0, 0, 30),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.DarkContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298)
+		},{
+			utility:Create("TextLabel", {
+				Name = "Title",
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0.5, 1),
+				Size = UDim2.new(0.5, 0, 1, 0),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.10000000149012,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("ImageButton", {
+				Name = "Button",
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Position = UDim2.new(1, -50, 0.5, -7),
+				Size = UDim2.new(0, 40, 0, 14),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = Color3.fromRGB(255, 255, 255),
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			})
+		})
+		
+		local tab = utility:Create("ImageLabel", {
+			Name = "ColorPicker",
+			Parent = self.page.library.container,
+			BackgroundTransparency = 1,
+			Position = UDim2.new(0.75, 0, 0.400000006, 0),
+			Selectable = true,
+			AnchorPoint = Vector2.new(0.5, 0.5),
+			Size = UDim2.new(0, 162, 0, 169),
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.Background,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298),
+			Visible = false,
+		}, {
+			utility:Create("ImageLabel", {
+				Name = "Glow",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, -15, 0, -15),
+				Size = UDim2.new(1, 30, 1, 30),
+				ZIndex = 0,
+				Image = "rbxassetid://5028857084",
+				ImageColor3 = themes.Glow,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(22, 22, 278, 278)
+			}),
+			utility:Create("TextLabel", {
+				Name = "Title",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0, 8),
+				Size = UDim2.new(1, -40, 0, 16),
+				ZIndex = 2,
+				Font = Enum.Font.GothamSemibold,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 14,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("ImageButton", {
+				Name = "Close",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -26, 0, 8),
+				Size = UDim2.new(0, 16, 0, 16),
+				ZIndex = 2,
+				Image = "rbxassetid://5012538583",
+				ImageColor3 = themes.TextColor
+			}), 
+			utility:Create("Frame", {
+				Name = "Container",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 8, 0, 32),
+				Size = UDim2.new(1, -18, 1, -40)
+			}, {
+				utility:Create("UIListLayout", {
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					Padding = UDim.new(0, 6)
+				}),
+				utility:Create("ImageButton", {
+					Name = "Canvas",
+					BackgroundTransparency = 1,
+					BorderColor3 = themes.LightContrast,
+					Size = UDim2.new(1, 0, 0, 60),
+					AutoButtonColor = false,
+					Image = "rbxassetid://5108535320",
+					ImageColor3 = Color3.fromRGB(255, 0, 0),
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(2, 2, 298, 298)
+				}, {
+					utility:Create("ImageLabel", {
+						Name = "White_Overlay",
+						BackgroundTransparency = 1,
+						Size = UDim2.new(1, 0, 0, 60),
+						Image = "rbxassetid://5107152351",
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					}),
+					utility:Create("ImageLabel", {
+						Name = "Black_Overlay",
+						BackgroundTransparency = 1,
+						Size = UDim2.new(1, 0, 0, 60),
+						Image = "rbxassetid://5107152095",
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					}),
+					utility:Create("ImageLabel", {
+						Name = "Cursor",
+						BackgroundColor3 = themes.TextColor,
+						AnchorPoint = Vector2.new(0.5, 0.5),
+						BackgroundTransparency = 1.000,
+						Size = UDim2.new(0, 10, 0, 10),
+						Position = UDim2.new(0, 0, 0, 0),
+						Image = "rbxassetid://5100115962",
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					})
+				}),
+				utility:Create("ImageButton", {
+					Name = "Color",
+					BackgroundTransparency = 1,
+					BorderSizePixel = 0,
+					Position = UDim2.new(0, 0, 0, 4),
+					Selectable = false,
+					Size = UDim2.new(1, 0, 0, 16),
+					ZIndex = 2,
+					AutoButtonColor = false,
+					Image = "rbxassetid://5028857472",
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(2, 2, 298, 298)
+				}, {
+					utility:Create("Frame", {
+						Name = "Select",
+						BackgroundColor3 = themes.TextColor,
+						BorderSizePixel = 1,
+						Position = UDim2.new(1, 0, 0, 0),
+						Size = UDim2.new(0, 2, 1, 0),
+						ZIndex = 2
+					}),
+					utility:Create("UIGradient", { -- rainbow canvas
+						Color = ColorSequence.new({
+							ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 0)), 
+							ColorSequenceKeypoint.new(0.17, Color3.fromRGB(255, 255, 0)), 
+							ColorSequenceKeypoint.new(0.33, Color3.fromRGB(0, 255, 0)), 
+							ColorSequenceKeypoint.new(0.50, Color3.fromRGB(0, 255, 255)), 
+							ColorSequenceKeypoint.new(0.66, Color3.fromRGB(0, 0, 255)), 
+							ColorSequenceKeypoint.new(0.82, Color3.fromRGB(255, 0, 255)), 
+							ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 0, 0))
+						})
+					})
+				}),
+				utility:Create("Frame", {
+					Name = "Inputs",
+					BackgroundTransparency = 1,
+					Position = UDim2.new(0, 10, 0, 158),
+					Size = UDim2.new(1, 0, 0, 16)
+				}, {
+					utility:Create("UIListLayout", {
+						FillDirection = Enum.FillDirection.Horizontal,
+						SortOrder = Enum.SortOrder.LayoutOrder,
+						Padding = UDim.new(0, 6)
+					}),
+					utility:Create("ImageLabel", {
+						Name = "R",
+						BackgroundTransparency = 1,
+						BorderSizePixel = 0,
+						Size = UDim2.new(0.305, 0, 1, 0),
+						ZIndex = 2,
+						Image = "rbxassetid://5028857472",
+						ImageColor3 = themes.DarkContrast,
+						ScaleType = Enum.ScaleType.Slice,
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					}, {
+						utility:Create("TextLabel", {
+							Name = "Text",
+							BackgroundTransparency = 1,
+							Size = UDim2.new(0.400000006, 0, 1, 0),
+							ZIndex = 2,
+							Font = Enum.Font.Gotham,
+							Text = "R:",
+							TextColor3 = themes.TextColor,
+							TextSize = 10.000
+						}),
+						utility:Create("TextBox", {
+							Name = "Textbox",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0.300000012, 0, 0, 0),
+							Size = UDim2.new(0.600000024, 0, 1, 0),
+							ZIndex = 2,
+							Font = Enum.Font.Gotham,
+							PlaceholderColor3 = themes.DarkContrast,
+							Text = "255",
+							TextColor3 = themes.TextColor,
+							TextSize = 10.000
+						})
+					}),
+					utility:Create("ImageLabel", {
+						Name = "G",
+						BackgroundTransparency = 1,
+						BorderSizePixel = 0,
+						Size = UDim2.new(0.305, 0, 1, 0),
+						ZIndex = 2,
+						Image = "rbxassetid://5028857472",
+						ImageColor3 = themes.DarkContrast,
+						ScaleType = Enum.ScaleType.Slice,
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					}, {
+						utility:Create("TextLabel", {
+							Name = "Text",
+							BackgroundTransparency = 1,
+							ZIndex = 2,
+							Size = UDim2.new(0.400000006, 0, 1, 0),
+							Font = Enum.Font.Gotham,
+							Text = "G:",
+							TextColor3 = themes.TextColor,
+							TextSize = 10.000
+						}),
+						utility:Create("TextBox", {
+							Name = "Textbox",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0.300000012, 0, 0, 0),
+							Size = UDim2.new(0.600000024, 0, 1, 0),
+							ZIndex = 2,
+							Font = Enum.Font.Gotham,
+							Text = "255",
+							TextColor3 = themes.TextColor,
+							TextSize = 10.000
+						})
+					}),
+					utility:Create("ImageLabel", {
+						Name = "B",
+						BackgroundTransparency = 1,
+						BorderSizePixel = 0,
+						Size = UDim2.new(0.305, 0, 1, 0),
+						ZIndex = 2,
+						Image = "rbxassetid://5028857472",
+						ImageColor3 = themes.DarkContrast,
+						ScaleType = Enum.ScaleType.Slice,
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					}, {
+						utility:Create("TextLabel", {
+							Name = "Text",
+							BackgroundTransparency = 1,
+							Size = UDim2.new(0.400000006, 0, 1, 0),
+							ZIndex = 2,
+							Font = Enum.Font.Gotham,
+							Text = "B:",
+							TextColor3 = themes.TextColor,
+							TextSize = 10.000
+						}),
+						utility:Create("TextBox", {
+							Name = "Textbox",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0.300000012, 0, 0, 0),
+							Size = UDim2.new(0.600000024, 0, 1, 0),
+							ZIndex = 2,
+							Font = Enum.Font.Gotham,
+							Text = "255",
+							TextColor3 = themes.TextColor,
+							TextSize = 10.000
+						})
+					}),
+				}),
+				utility:Create("ImageButton", {
+					Name = "Button",
+					BackgroundTransparency = 1,
+					BorderSizePixel = 0,
+					Size = UDim2.new(1, 0, 0, 20),
+					ZIndex = 2,
+					Image = "rbxassetid://5028857472",
+					ImageColor3 = themes.DarkContrast,
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(2, 2, 298, 298)
+				}, {
+					utility:Create("TextLabel", {
+						Name = "Text",
+						BackgroundTransparency = 1,
+						Size = UDim2.new(1, 0, 1, 0),
+						ZIndex = 3,
+						Font = Enum.Font.Gotham,
+						Text = "Submit",
+						TextColor3 = themes.TextColor,
+						TextSize = 11.000
+					})
+				})
+			})
+		})
+		
+		utility:DraggingEnabled(tab)
+		table.insert(self.modules, colorpicker)
+		--self:Resize()
+		
+		local allowed = {
+			[""] = true
+		}
+		
+		local canvas = tab.Container.Canvas
+		local color = tab.Container.Color
+		
+		local canvasSize, canvasPosition = canvas.AbsoluteSize, canvas.AbsolutePosition
+		local colorSize, colorPosition = color.AbsoluteSize, color.AbsolutePosition
+		
+		local draggingColor, draggingCanvas
+		
+		local color3 = default or Color3.fromRGB(255, 255, 255)
+		local hue, sat, brightness = 0, 0, 1
+		local rgb = {
+			r = 255,
+			g = 255,
+			b = 255
+		}
+		
+		self.colorpickers[colorpicker] = {
+			tab = tab,
+			callback = function(prop, value)
+				rgb[prop] = value
+				hue, sat, brightness = Color3.toHSV(Color3.fromRGB(rgb.r, rgb.g, rgb.b))
+			end
+		}
+		
+		local callback = function(value)
+			if callback then
+				callback(value, function(...)
+					self:updateColorPicker(colorpicker, ...)
+				end)
+			end
+		end
+		
+		utility:DraggingEnded(function()
+			draggingColor, draggingCanvas = false, false
+		end)
+		
+		if default then
+			self:updateColorPicker(colorpicker, nil, default)
+			
+			hue, sat, brightness = Color3.toHSV(default)
+			default = Color3.fromHSV(hue, sat, brightness)
+			
+			for i, prop in pairs({"r", "g", "b"}) do
+				rgb[prop] = default[prop:upper()] * 255
+			end
+		end
+		
+		for i, container in pairs(tab.Container.Inputs:GetChildren()) do -- i know what you are about to say, so shut up
+			if container:IsA("ImageLabel") then
+				local textbox = container.Textbox
+				local focused
+				
+				textbox.Focused:Connect(function()
+					focused = true
+				end)
+				
+				textbox.FocusLost:Connect(function()
+					focused = false
+					
+					if not tonumber(textbox.Text) then
+						textbox.Text = math.floor(rgb[container.Name:lower()])
+					end
+				end)
+				
+				textbox:GetPropertyChangedSignal("Text"):Connect(function()
+					local text = textbox.Text
+					
+					if not allowed[text] and not tonumber(text) then
+						textbox.Text = text:sub(1, #text - 1)
+					elseif focused and not allowed[text] then
+						rgb[container.Name:lower()] = math.clamp(tonumber(textbox.Text), 0, 255)
+						
+						local color3 = Color3.fromRGB(rgb.r, rgb.g, rgb.b)
+						hue, sat, brightness = Color3.toHSV(color3)
+						
+						self:updateColorPicker(colorpicker, nil, color3)
+						callback(color3)
+					end
+				end)
+			end
+		end
+		
+		canvas.MouseButton1Down:Connect(function()
+			draggingCanvas = true
+			
+			while draggingCanvas do
+				
+				local x, y = mouse.X, mouse.Y
+				
+				sat = math.clamp((x - canvasPosition.X) / canvasSize.X, 0, 1)
+				brightness = 1 - math.clamp((y - canvasPosition.Y) / canvasSize.Y, 0, 1)
+				
+				color3 = Color3.fromHSV(hue, sat, brightness)
+				
+				for i, prop in pairs({"r", "g", "b"}) do
+					rgb[prop] = color3[prop:upper()] * 255
+				end
+				
+				self:updateColorPicker(colorpicker, nil, {hue, sat, brightness}) -- roblox is literally retarded
+				utility:Tween(canvas.Cursor, {Position = UDim2.new(sat, 0, 1 - brightness, 0)}, 0.1) -- overwrite
+				
+				callback(color3)
+				utility:Wait()
+			end
+		end)
+		
+		color.MouseButton1Down:Connect(function()
+			draggingColor = true
+			
+			while draggingColor do
+			
+				hue = 1 - math.clamp(1 - ((mouse.X - colorPosition.X) / colorSize.X), 0, 1)
+				color3 = Color3.fromHSV(hue, sat, brightness)
+				
+				for i, prop in pairs({"r", "g", "b"}) do
+					rgb[prop] = color3[prop:upper()] * 255
+				end
+				
+				local x = hue -- hue is updated
+				self:updateColorPicker(colorpicker, nil, {hue, sat, brightness}) -- roblox is literally retarded
+				utility:Tween(tab.Container.Color.Select, {Position = UDim2.new(x, 0, 0, 0)}, 0.1) -- overwrite
+				
+				callback(color3)
+				utility:Wait()
+			end
+		end)
+		
+		-- click events
+		local button = colorpicker.Button
+		local toggle, debounce, animate
+		
+		lastColor = Color3.fromHSV(hue, sat, brightness)
+		animate = function(visible, overwrite)
+			
+			if overwrite then
+			
+				if not toggle then
+					return
+				end
+				
+				if debounce then
+					while debounce do
+						utility:Wait()
+					end
+				end
+			elseif not overwrite then
+				if debounce then 
+					return 
+				end
+				
+				if button.ImageTransparency == 0 then
+					utility:Pop(button, 10)
+				end
+			end
+			
+			toggle = visible
+			debounce = true
+			
+			if visible then
+			
+				if self.page.library.activePicker and self.page.library.activePicker ~= animate then
+					self.page.library.activePicker(nil, true)
+				end
+				
+				self.page.library.activePicker = animate
+				lastColor = Color3.fromHSV(hue, sat, brightness)
+				
+				local x1, x2 = button.AbsoluteSize.X / 2, 162--tab.AbsoluteSize.X
+				local px, py = button.AbsolutePosition.X, button.AbsolutePosition.Y
+				
+				tab.ClipsDescendants = true
+				tab.Visible = true
+				tab.Size = UDim2.new(0, 0, 0, 0)
+				
+				tab.Position = UDim2.new(0, x1 + x2 + px, 0, py)
+				utility:Tween(tab, {Size = UDim2.new(0, 162, 0, 169)}, 0.2)
+				
+				-- update size and position
+				wait(0.2)
+				tab.ClipsDescendants = false
+				
+				canvasSize, canvasPosition = canvas.AbsoluteSize, canvas.AbsolutePosition
+				colorSize, colorPosition = color.AbsoluteSize, color.AbsolutePosition
+			else
+				utility:Tween(tab, {Size = UDim2.new(0, 0, 0, 0)}, 0.2)
+				tab.ClipsDescendants = true
+				
+				wait(0.2)
+				tab.Visible = false
+			end
+			
+			debounce = false
+		end
+		
+		local toggleTab = function()
+			animate(not toggle)
+		end
+		
+		button.MouseButton1Click:Connect(toggleTab)
+		colorpicker.MouseButton1Click:Connect(toggleTab)
+		
+		tab.Container.Button.MouseButton1Click:Connect(function()
+			animate()
+		end)
+		
+		tab.Close.MouseButton1Click:Connect(function()
+			self:updateColorPicker(colorpicker, nil, lastColor)
+			animate()
+		end)
+		
+		return colorpicker
+	end
+	
+	function section:addSlider(title, default, min, max, callback)
+		local slider = utility:Create("ImageButton", {
+			Name = "Slider",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Position = UDim2.new(0.292817682, 0, 0.299145311, 0),
+			Size = UDim2.new(1, 0, 0, 50),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.DarkContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298)
+		}, {
+			utility:Create("TextLabel", {
+				Name = "Title",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0, 6),
+				Size = UDim2.new(0.5, 0, 0, 16),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.10000000149012,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("TextBox", {
+				Name = "TextBox",
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Position = UDim2.new(1, -30, 0, 6),
+				Size = UDim2.new(0, 20, 0, 16),
+				ZIndex = 3,
+				Font = Enum.Font.GothamSemibold,
+				Text = default or min,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextXAlignment = Enum.TextXAlignment.Right
+			}),
+			utility:Create("TextLabel", {
+				Name = "Slider",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0, 28),
+				Size = UDim2.new(1, -20, 0, 16),
+				ZIndex = 3,
+				Text = "",
+			}, {
+				utility:Create("ImageLabel", {
+					Name = "Bar",
+					AnchorPoint = Vector2.new(0, 0.5),
+					BackgroundTransparency = 1,
+					Position = UDim2.new(0, 0, 0.5, 0),
+					Size = UDim2.new(1, 0, 0, 4),
+					ZIndex = 3,
+					Image = "rbxassetid://5028857472",
+					ImageColor3 = themes.LightContrast,
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(2, 2, 298, 298)
+				}, {
+					utility:Create("ImageLabel", {
+						Name = "Fill",
+						BackgroundTransparency = 1,
+						Size = UDim2.new(0.8, 0, 1, 0),
+						ZIndex = 3,
+						Image = "rbxassetid://5028857472",
+						ImageColor3 = themes.TextColor,
+						ScaleType = Enum.ScaleType.Slice,
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					}, {
+						utility:Create("ImageLabel", {
+							Name = "Circle",
+							AnchorPoint = Vector2.new(0.5, 0.5),
+							BackgroundTransparency = 1,
+							ImageTransparency = 1.000,
+							ImageColor3 = themes.TextColor,
+							Position = UDim2.new(1, 0, 0.5, 0),
+							Size = UDim2.new(0, 10, 0, 10),
+							ZIndex = 3,
+							Image = "rbxassetid://4608020054"
+						})
+					})
+				})
+			})
+		})
+		
+		table.insert(self.modules, slider)
+		--self:Resize()
+		
+		local allowed = {
+			[""] = true,
+			["-"] = true
+		}
+		
+		local textbox = slider.TextBox
+		local circle = slider.Slider.Bar.Fill.Circle
+		
+		local value = default or min
+		local dragging, last
+		
+		local callback = function(value)
+			if callback then
+				callback(value, function(...)
+					self:updateSlider(slider, ...)
+				end)
+			end
+		end
+		
+		self:updateSlider(slider, nil, value, min, max)
+		
+		utility:DraggingEnded(function()
+			dragging = false
+		end)
+
+		slider.MouseButton1Down:Connect(function(input)
+			dragging = true
+			
+			while dragging do
+				utility:Tween(circle, {ImageTransparency = 0}, 0.1)
+				
+				value = self:updateSlider(slider, nil, nil, min, max, value)
+				callback(value)
+				
+				utility:Wait()
+			end
+			
+			wait(0.5)
+			utility:Tween(circle, {ImageTransparency = 1}, 0.2)
+		end)
+		
+		textbox.FocusLost:Connect(function()
+			if not tonumber(textbox.Text) then
+				value = self:updateSlider(slider, nil, default or min, min, max)
+				callback(value)
+			end
+		end)
+		
+		textbox:GetPropertyChangedSignal("Text"):Connect(function()
+			local text = textbox.Text
+			
+			if not allowed[text] and not tonumber(text) then
+				textbox.Text = text:sub(1, #text - 1)
+			elseif not allowed[text] then	
+				value = self:updateSlider(slider, nil, tonumber(text) or value, min, max)
+				callback(value)
+			end
+		end)
+		
+		return slider
+	end
+	
+	function section:addDropdown(title, list, callback)
+		local dropdown = utility:Create("Frame", {
+			Name = "Dropdown",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			Size = UDim2.new(1, 0, 0, 30),
+			ClipsDescendants = true
+		}, {
+			utility:Create("UIListLayout", {
+				SortOrder = Enum.SortOrder.LayoutOrder,
+				Padding = UDim.new(0, 4)
+			}),
+			utility:Create("ImageLabel", {
+				Name = "Search",
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Size = UDim2.new(1, 0, 0, 30),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = themes.DarkContrast,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			}, {
+				utility:Create("TextBox", {
+					Name = "TextBox",
+					AnchorPoint = Vector2.new(0, 0.5),
+					BackgroundTransparency = 1,
+					TextTruncate = Enum.TextTruncate.AtEnd,
+					Position = UDim2.new(0, 10, 0.5, 1),
+					Size = UDim2.new(1, -42, 1, 0),
+					ZIndex = 3,
+					Font = Enum.Font.Gotham,
+					Text = title,
+					TextColor3 = themes.TextColor,
+					TextSize = 12,
+					TextTransparency = 0.10000000149012,
+					TextXAlignment = Enum.TextXAlignment.Left
+				}),
+				utility:Create("ImageButton", {
+					Name = "Button",
+					BackgroundTransparency = 1,
+					BorderSizePixel = 0,
+					Position = UDim2.new(1, -28, 0.5, -9),
+					Size = UDim2.new(0, 18, 0, 18),
+					ZIndex = 3,
+					Image = "rbxassetid://5012539403",
+					ImageColor3 = themes.TextColor,
+					SliceCenter = Rect.new(2, 2, 298, 298)
+				})
+			}),
+			utility:Create("ImageLabel", {
+				Name = "List",
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Size = UDim2.new(1, 0, 1, -34),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = themes.Background,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			}, {
+				utility:Create("ScrollingFrame", {
+					Name = "Frame",
+					Active = true,
+					BackgroundTransparency = 1,
+					BorderSizePixel = 0,
+					Position = UDim2.new(0, 4, 0, 4),
+					Size = UDim2.new(1, -8, 1, -8),
+					CanvasPosition = Vector2.new(0, 28),
+					CanvasSize = UDim2.new(0, 0, 0, 120),
+					ZIndex = 2,
+					ScrollBarThickness = 3,
+					ScrollBarImageColor3 = themes.DarkContrast
+				}, {
+					utility:Create("UIListLayout", {
+						SortOrder = Enum.SortOrder.LayoutOrder,
+						Padding = UDim.new(0, 4)
+					})
+				})
+			})
+		})
+		
+		table.insert(self.modules, dropdown)
+		--self:Resize()
+		
+		local search = dropdown.Search
+		local focused
+		
+		list = list or {}
+		
+		search.Button.MouseButton1Click:Connect(function()
+			if search.Button.Rotation == 0 then
+				self:updateDropdown(dropdown, nil, list, callback)
+			else
+				self:updateDropdown(dropdown, nil, nil, callback)
+			end
+		end)
+		
+		search.TextBox.Focused:Connect(function()
+			if search.Button.Rotation == 0 then
+				self:updateDropdown(dropdown, nil, list, callback)
+			end
+			
+			focused = true
+		end)
+		
+		search.TextBox.FocusLost:Connect(function()
+			focused = false
+		end)
+		
+		search.TextBox:GetPropertyChangedSignal("Text"):Connect(function()
+			if focused then
+				local list = utility:Sort(search.TextBox.Text, list)
+				list = #list ~= 0 and list 
+				
+				self:updateDropdown(dropdown, nil, list, callback)
+			end
+		end)
+		
+		dropdown:GetPropertyChangedSignal("Size"):Connect(function()
+			self:Resize()
+		end)
+		
+		return dropdown
+	end
+	
+	-- class functions
+	
+	function library:SelectPage(page, toggle)
+		
+		if toggle and self.focusedPage == page then -- already selected
+			return
+		end
+		
+		local button = page.button
+		
+		if toggle then
+			-- page button
+			button.Title.TextTransparency = 0
+			button.Title.Font = Enum.Font.GothamSemibold
+			
+			if button:FindFirstChild("Icon") then
+				button.Icon.ImageTransparency = 0
+			end
+			
+			-- update selected page
+			local focusedPage = self.focusedPage
+			self.focusedPage = page
+			
+			if focusedPage then
+				self:SelectPage(focusedPage)
+			end
+			
+			-- sections
+			local existingSections = focusedPage and #focusedPage.sections or 0
+			local sectionsRequired = #page.sections - existingSections
+			
+			page:Resize()
+			
+			for i, section in pairs(page.sections) do
+				section.container.Parent.ImageTransparency = 0
+			end
+			
+			if sectionsRequired < 0 then -- "hides" some sections
+				for i = existingSections, #page.sections + 1, -1 do
+					local section = focusedPage.sections[i].container.Parent
+					
+					utility:Tween(section, {ImageTransparency = 1}, 0.1)
+				end
+			end
+			
+			wait(0.1)
+			page.container.Visible = true
+			
+			if focusedPage then
+				focusedPage.container.Visible = false
+			end
+			
+			if sectionsRequired > 0 then -- "creates" more section
+				for i = existingSections + 1, #page.sections do
+					local section = page.sections[i].container.Parent
+					
+					section.ImageTransparency = 1
+					utility:Tween(section, {ImageTransparency = 0}, 0.05)
+				end
+			end
+			
+			wait(0.05)
+			
+			for i, section in pairs(page.sections) do
+			
+				utility:Tween(section.container.Title, {TextTransparency = 0}, 0.1)
+				section:Resize(true)
+				
+				wait(0.05)
+			end
+			
+			wait(0.05)
+			page:Resize(true)
+		else
+			-- page button
+			button.Title.Font = Enum.Font.Gotham
+			button.Title.TextTransparency = 0.65
+			
+			if button:FindFirstChild("Icon") then
+				button.Icon.ImageTransparency = 0.65
+			end
+			
+			-- sections
+			for i, section in pairs(page.sections) do	
+				utility:Tween(section.container.Parent, {Size = UDim2.new(1, -10, 0, 28)}, 0.1)
+				utility:Tween(section.container.Title, {TextTransparency = 1}, 0.1)
+			end
+			
+			wait(0.1)
+			
+			page.lastPosition = page.container.CanvasPosition.Y
+			page:Resize()
+		end
+	end
+	
+	function page:Resize(scroll)
+		local padding = 10
+		local size = 0
+		
+		for i, section in pairs(self.sections) do
+			size = size + section.container.Parent.AbsoluteSize.Y + padding
+		end
+		
+		self.container.CanvasSize = UDim2.new(0, 0, 0, size)
+		self.container.ScrollBarImageTransparency = size > self.container.AbsoluteSize.Y
+		
+		if scroll then
+			utility:Tween(self.container, {CanvasPosition = Vector2.new(0, self.lastPosition or 0)}, 0.2)
+		end
+	end
+	
+	function section:Resize(smooth)
+	
+		if self.page.library.focusedPage ~= self.page then
+			return
+		end
+		
+		local padding = 4
+		local size = (4 * padding) + self.container.Title.AbsoluteSize.Y -- offset
+		
+		for i, module in pairs(self.modules) do
+			size = size + module.AbsoluteSize.Y + padding
+		end
+		
+		if smooth then
+			utility:Tween(self.container.Parent, {Size = UDim2.new(1, -10, 0, size)}, 0.05)
+		else
+			self.container.Parent.Size = UDim2.new(1, -10, 0, size)
+			self.page:Resize()
+		end
+	end
+	
+	function section:getModule(info)
+	
+		if table.find(self.modules, info) then
+			return info
+		end
+		
+		for i, module in pairs(self.modules) do
+			if (module:FindFirstChild("Title") or module:FindFirstChild("TextBox", true)).Text == info then
+				return module
+			end
+		end
+		
+		error("No module found under "..tostring(info))
+	end
+	
+	-- updates
+	
+	function section:updateButton(button, title)
+		button = self:getModule(button)
+		
+		button.Title.Text = title
+	end
+	
+	function section:updateToggle(toggle, title, value)
+		toggle = self:getModule(toggle)
+		
+		local position = {
+			In = UDim2.new(0, 2, 0.5, -6),
+			Out = UDim2.new(0, 20, 0.5, -6)
+		}
+		
+		local frame = toggle.Button.Frame
+		value = value and "Out" or "In"
+		
+		if title then
+			toggle.Title.Text = title
+		end
+		
+		utility:Tween(frame, {
+			Size = UDim2.new(1, -22, 1, -9),
+			Position = position[value] + UDim2.new(0, 0, 0, 2.5)
+		}, 0.2)
+		
+		wait(0.1)
+		utility:Tween(frame, {
+			Size = UDim2.new(1, -22, 1, -4),
+			Position = position[value]
+		}, 0.1)
+	end
+	
+	function section:updateTextbox(textbox, title, value)
+		textbox = self:getModule(textbox)
+		
+		if title then
+			textbox.Title.Text = title
+		end
+		
+		if value then
+			textbox.Button.Textbox.Text = value
+		end
+		
+	end
+	
+	function section:updateKeybind(keybind, title, key)
+		keybind = self:getModule(keybind)
+		
+		local text = keybind.Button.Text
+		local bind = self.binds[keybind]
+		
+		if title then
+			keybind.Title.Text = title
+		end
+		
+		if bind.connection then
+			bind.connection = bind.connection:UnBind()
+		end
+			
+		if key then
+			self.binds[keybind].connection = utility:BindToKey(key, bind.callback)
+			text.Text = key.Name
+		else
+			text.Text = "None"
+		end
+	end
+	
+	function section:updateColorPicker(colorpicker, title, color)
+		colorpicker = self:getModule(colorpicker)
+		
+		local picker = self.colorpickers[colorpicker]
+		local tab = picker.tab
+		local callback = picker.callback
+		
+		if title then
+			colorpicker.Title.Text = title
+			tab.Title.Text = title
+		end
+		
+		local color3
+		local hue, sat, brightness
+		
+		if type(color) == "table" then -- roblox is literally retarded x2
+			hue, sat, brightness = unpack(color)
+			color3 = Color3.fromHSV(hue, sat, brightness)
+		else
+			color3 = color
+			hue, sat, brightness = Color3.toHSV(color3)
+		end
+		
+		utility:Tween(colorpicker.Button, {ImageColor3 = color3}, 0.5)
+		utility:Tween(tab.Container.Color.Select, {Position = UDim2.new(hue, 0, 0, 0)}, 0.1)
+		
+		utility:Tween(tab.Container.Canvas, {ImageColor3 = Color3.fromHSV(hue, 1, 1)}, 0.5)
+		utility:Tween(tab.Container.Canvas.Cursor, {Position = UDim2.new(sat, 0, 1 - brightness)}, 0.5)
+		
+		for i, container in pairs(tab.Container.Inputs:GetChildren()) do
+			if container:IsA("ImageLabel") then
+				local value = math.clamp(color3[container.Name], 0, 1) * 255
+				
+				container.Textbox.Text = math.floor(value)
+				--callback(container.Name:lower(), value)
+			end
+		end
+	end
+	
+	function section:updateSlider(slider, title, value, min, max, lvalue)
+		slider = self:getModule(slider)
+		
+		if title then
+			slider.Title.Text = title
+		end
+		
+		local bar = slider.Slider.Bar
+		local percent = (mouse.X - bar.AbsolutePosition.X) / bar.AbsoluteSize.X
+		
+		if value then -- support negative ranges
+			percent = (value - min) / (max - min)
+		end
+		
+		percent = math.clamp(percent, 0, 1)
+		value = value or math.floor(min + (max - min) * percent)
+		
+		slider.TextBox.Text = value
+		utility:Tween(bar.Fill, {Size = UDim2.new(percent, 0, 1, 0)}, 0.1)
+		
+		if value ~= lvalue and slider.ImageTransparency == 0 then
+			utility:Pop(slider, 10)
+		end
+		
+		return value
+	end
+	
+	function section:updateDropdown(dropdown, title, list, callback)
+		dropdown = self:getModule(dropdown)
+		
+		if title then
+			dropdown.Search.TextBox.Text = title
+		end
+		
+		local entries = 0
+		
+		utility:Pop(dropdown.Search, 10)
+		
+		for i, button in pairs(dropdown.List.Frame:GetChildren()) do
+			if button:IsA("ImageButton") then
+				button:Destroy()
+			end
+		end
+			
+		for i, value in pairs(list or {}) do
+			local button = utility:Create("ImageButton", {
+				Parent = dropdown.List.Frame,
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Size = UDim2.new(1, 0, 0, 30),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = themes.DarkContrast,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			}, {
+				utility:Create("TextLabel", {
+					BackgroundTransparency = 1,
+					Position = UDim2.new(0, 10, 0, 0),
+					Size = UDim2.new(1, -10, 1, 0),
+					ZIndex = 3,
+					Font = Enum.Font.Gotham,
+					Text = value,
+					TextColor3 = themes.TextColor,
+					TextSize = 12,
+					TextXAlignment = "Left",
+					TextTransparency = 0.10000000149012
+				})
+			})
+			
+			button.MouseButton1Click:Connect(function()
+				if callback then
+					callback(value, function(...)
+						self:updateDropdown(dropdown, ...)
+					end)	
+				end
+
+				self:updateDropdown(dropdown, value, nil, callback)
+			end)
+			
+			entries = entries + 1
+		end
+		
+		local frame = dropdown.List.Frame
+		
+		utility:Tween(dropdown, {Size = UDim2.new(1, 0, 0, (entries == 0 and 30) or math.clamp(entries, 0, 3) * 34 + 38)}, 0.3)
+		utility:Tween(dropdown.Search.Button, {Rotation = list and 180 or 0}, 0.3)
+		
+		if entries > 3 then
+		
+			for i, button in pairs(dropdown.List.Frame:GetChildren()) do
+				if button:IsA("ImageButton") then
+					button.Size = UDim2.new(1, -6, 0, 30)
+				end
+			end
+			
+			frame.CanvasSize = UDim2.new(0, 0, 0, (entries * 34) - 4)
+			frame.ScrollBarImageTransparency = 0
+		else
+			frame.CanvasSize = UDim2.new(0, 0, 0, 0)
+			frame.ScrollBarImageTransparency = 1
+		end
+	end
+end
+
+return library
